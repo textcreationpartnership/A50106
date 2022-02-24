@@ -1,0 +1,721 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty of submission to divine providence, in all its dispensations described and recommended from the example and argument of Job / by Samvel Masters.</title>
+            <author>Masters, Samuel, 1645 or 6-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 65 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50106</idno>
+            <idno type="STC">Wing M1070</idno>
+            <idno type="STC">ESTC R103</idno>
+            <idno type="EEBO-CITATION">12767327</idno>
+            <idno type="OCLC">ocm 12767327</idno>
+            <idno type="VID">93606</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93606)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty of submission to divine providence, in all its dispensations described and recommended from the example and argument of Job / by Samvel Masters.</title>
+                  <author>Masters, Samuel, 1645 or 6-1693.</author>
+               </titleStmt>
+               <extent>128 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Awnsham Churchill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 128.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Job --  (Biblical figure)</term>
+               <term>Patience.</term>
+               <term>Resignation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93606:1" rendition="simple:additions"/>
+            <p>THE DUTY OF SUBMISSION TO Divine Providence, In all its Diſpenſations.</p>
+            <p>Deſcribed and Recommended from the Example and Argument of <hi>JOB.</hi>
+            </p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL MASTERS.</hi> B. D.</p>
+            <q>
+               <bibl>
+                  <hi>James 6. 10, 11.</hi>
+               </bibl>
+               <p>Take, my Brethren, the Prophets, who have ſpoken in the Name of the Lord, for an example of ſuffering Affliction, and of Patience. Behold we account them happy which endure. Ye have heard of the patience of <hi>Job,</hi> and have ſeen the end of the Lord: that the Lord is very pitiful, and of tender Mercy.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Awnſham Churchill,</hi> at the <hi>Black-Swan</hi> in <hi>Ave-Mary-Lane,</hi> 1689.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:93606:2" rendition="simple:additions"/>
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>GUIL. NEEDHAM.</signed>
+               <date>
+                  <hi>July</hi> 23. 1689.</date>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:93606:2"/>
+            <head>TO THE Right Honourable the LADY <hi>LETITIA ISABELLA</hi> Counteſs Dowager of <hi>RADNOR.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THe late ſmarting Afflictions which I have felt in my Perſon and Family, have made me very quick of Senſe in reſenting <hi>Yours;</hi> and have ingag'd my Mind on ſuch Meditati<g ref="char:EOLhyphen"/>ons, as may render me
+<pb facs="tcp:93606:3"/>capable of ſpeaking a Word in Seaſon to <hi>You.</hi>
+            </p>
+            <p>I dare not be ſo <hi>unjuſt</hi> to your <hi>Sorrows,</hi> as to <hi>diſſemble</hi> or <hi>extenuate</hi> your <hi>Loſs:</hi> All who knew the Lady <hi>Eſſex,</hi> found it neceſſary to <hi>ad<g ref="char:EOLhyphen"/>mire</hi> her for the <hi>Beauty</hi> of her <hi>Perſon,</hi> the <hi>Quick<g ref="char:EOLhyphen"/>neſs</hi> of her <hi>Parts,</hi> and the moſt <hi>obliging Sweetneſs</hi> of her <hi>Converſation;</hi> but chiefly for her <hi>Reli<g ref="char:EOLhyphen"/>gious</hi> Accompliſhments, her <hi>unaffected Vertues,</hi> and her <hi>frequent Exer<g ref="char:EOLhyphen"/>ciſes
+<pb facs="tcp:93606:3"/>of Devotion,</hi> both in <hi>publick</hi> and <hi>private.</hi> But I need not tell your <hi>Ladyſhip</hi> how <hi>good</hi> ſhe was, who took ſo much delight in <hi>making</hi> and <hi>ſeeing</hi> her ſuch; and I dare not gratify my ſelf any farther in diſplaying her <hi>excellent Character,</hi> leſt I ſhould thereby <hi>ſol<g ref="char:EOLhyphen"/>licit</hi> thoſe <hi>Tears,</hi> which your <hi>Religious Wiſdom</hi> endeavours to <hi>ſuppreſs.</hi> I would rather obſerve to you thoſe <hi>good things</hi> wherewith the <hi>Divine
+<pb facs="tcp:93606:4"/>Wiſdom</hi> hath <hi>attempe<g ref="char:EOLhyphen"/>red</hi> your <hi>Affliction,</hi> that the <hi>Sweetneſs</hi> of the <hi>One,</hi> may <hi>allay</hi> the <hi>Bit<g ref="char:EOLhyphen"/>terneſs</hi> of the <hi>Other.</hi>
+            </p>
+            <p>The <hi>Perſon</hi> You be<g ref="char:EOLhyphen"/>wail is indeed gone from <hi>You,</hi> but to her <hi>Hea<g ref="char:EOLhyphen"/>venly Father; She</hi> died in the <hi>Youth</hi> of her Age, but not before She was <hi>capable</hi> of a <hi>Life</hi> of <hi>Glory; She</hi> left the World when it began to temp her with a <hi>New Scene</hi> of <hi>Enjoyments;</hi> but <hi>She</hi> left its <hi>Vanities,</hi>
+               <pb facs="tcp:93606:4"/>and <hi>Troubles</hi> too, and hath gain'd by the <hi>ex<g ref="char:EOLhyphen"/>change</hi> much <hi>purer</hi> and more <hi>laſting Joys.</hi>
+            </p>
+            <p>
+               <hi>You</hi> have loſt <hi>One Bleſſing,</hi> but <hi>Others</hi> continue ſtill, which de<g ref="char:EOLhyphen"/>ſerve your <hi>Eſteem</hi> and <hi>Love,</hi> and which may <hi>ſupport</hi> and <hi>conſolate</hi> the Remainder of your Life, <hi>You</hi> have loſt a <hi>Child,</hi> but Your <hi>Hea<g ref="char:EOLhyphen"/>venly Father</hi> is <hi>immor<g ref="char:EOLhyphen"/>tal</hi> and <hi>unchangeable,</hi> who will <hi>continue</hi> to <hi>dwell</hi> with you here by
+<pb facs="tcp:93606:5"/>his <hi>Holy Spirit,</hi> till he take you up to dwell with him Above; of which he hath given you a Pledg in advancing a part of you already thither.</p>
+            <p>Let not then the <hi>evil Things</hi> You have met with, ſo far <hi>ingroſs</hi> Your <hi>Thoughts</hi> and <hi>Af<g ref="char:EOLhyphen"/>fections</hi> as to rob God of the Honour, and Your ſelf of the Comfort, of all thoſe <hi>good Things</hi> he hath <hi>provided</hi> and <hi>prepared</hi> for You.</p>
+            <pb facs="tcp:93606:5"/>
+            <p>And to aſſiſt You here<g ref="char:EOLhyphen"/>in, I humbly offer the enſuing Diſcourſe, to perfect You in that <hi>Art,</hi> wherein You are already ſo well improv'd, of re<g ref="char:EOLhyphen"/>ceiving dutifully what<g ref="char:EOLhyphen"/>ever <hi>good</hi> or <hi>evil</hi> is diſ<g ref="char:EOLhyphen"/>penſed to You by the <hi>Hand</hi> of <hi>Providence.</hi>
+            </p>
+            <p>That You may continue <hi>long</hi> among us to <hi>recom<g ref="char:EOLhyphen"/>mend</hi> the <hi>Power</hi> and <hi>Beauty</hi> of <hi>Religion</hi> by Your <hi>Illuſtrious Example:</hi> And may at laſt <hi>exchange</hi> Your <hi>Earthly
+<pb facs="tcp:93606:6"/>Honour</hi> for a far bright<g ref="char:EOLhyphen"/>er <hi>Glory</hi> in <hi>Heaven,</hi> is the Hearty Prayer of,</p>
+            <closer>
+               <salute>MADAM,</salute> 
+               <signed>Your moſt Humble and Faithful Servant and Chaplain, <hi>SAMUEL MASTERS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="11" facs="tcp:93606:6"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB 2.10.</hi>
+                  </bibl>
+                  <p>—What? ſhall we receive good at the hand of God, and ſhall we not receive Evil?</p>
+               </q>
+            </epigraph>
+            <p>THeſe Words relate to a Paſſage in the Hiſto<g ref="char:EOLhyphen"/>ry of <hi>Job,</hi> concerning which Hiſtory it may be uſeful to premiſe a few Things, to recommend it to our <hi>ſerious Attention,</hi> and to prediſpoſe our Minds, by ſome proper <hi>Anticipations,</hi> to conſider more <hi>eaſily</hi> and <hi>pro<g ref="char:EOLhyphen"/>fitably</hi> this Argument of the Text.</p>
+            <p>There have been ſome <hi>Chriſtians</hi> of late, and ſome
+<pb n="12" facs="tcp:93606:7"/>
+               <hi>Jews</hi> of old, who thought this Hiſtory of <hi>Job</hi> to be a <hi>Poetick Fiction,</hi> and not a <hi>real Hiſtory,</hi> becauſe ſo <hi>extraor<g ref="char:EOLhyphen"/>dinary</hi> in its <hi>Matter,</hi> and ſo <hi>artificial</hi> in its <hi>Compoſure;</hi> and becauſe they obſerve that it was uſual in thoſe Times to <hi>teach</hi> and <hi>exemplify</hi> the Inſti<g ref="char:EOLhyphen"/>tutions of Morality and Re<g ref="char:EOLhyphen"/>ligion by ſuch <hi>Fictitious Para<g ref="char:EOLhyphen"/>bles.</hi> But when we conſider how <hi>poſitively</hi> this Hiſtory doth deſcribe and aſſert the <hi>Perſon of Job,</hi> and the ſeveral <hi>Circumſtances</hi> of his Conditi<g ref="char:EOLhyphen"/>on; alſo that the <hi>Holy Ghoſt</hi> makes mention of <hi>Job,</hi>
+               <note place="margin">Ezek. 14.14.</note> as a Perſon in great <hi>Favour</hi> with <hi>God,</hi> and joins him with <hi>No<g ref="char:EOLhyphen"/>ah</hi> and <hi>Daniel,</hi> of whoſe <hi>Re<g ref="char:EOLhyphen"/>ality</hi>
+               <pb n="13" facs="tcp:93606:7"/>there can be no doubt; and that St. <hi>James</hi> recom<g ref="char:EOLhyphen"/>mends <hi>Job</hi> for an <hi>imitable Pat<g ref="char:EOLhyphen"/>tern</hi> of <hi>Patience,</hi>
+               <note place="margin">Jam. 5.10, 11.</note> which can<g ref="char:EOLhyphen"/>not but ſuppoſe the <hi>Reality</hi> and <hi>Truth</hi> of his Hiſtory: Theſe Conſiderations will be ſufficient to induce us to concur with the more <hi>general Teſtimony</hi> both of <hi>Jews</hi> and <hi>Chriſtians,</hi> that this Hiſtory, however <hi>wonderful,</hi> is yet <hi>real,</hi> that there was indeed a Man ſo <hi>great</hi> and <hi>good</hi> as <hi>Job,</hi> that his <hi>Trial</hi> was no leſs, and his <hi>Patience</hi> as great as this Book deſcribes and aſſerts.</p>
+            <p>And as this <hi>Hiſtory</hi> is <hi>real,</hi> ſo it may be probably pre<g ref="char:EOLhyphen"/>ſum'd to be the moſt <hi>ancient</hi> now extant in the World;
+<pb n="14" facs="tcp:93606:8"/>for tho it be plac'd next be<g ref="char:EOLhyphen"/>fore the Book of <hi>Pſalms,</hi> be<g ref="char:EOLhyphen"/>cauſe compos'd like them in Metrical Numbers, yet it is probable that this. Book was written by <hi>Moſes,</hi> the moſt <hi>ancient Writer,</hi> and before a<g ref="char:EOLhyphen"/>ny of thoſe <hi>Five Books</hi> which are plac'd firſt in our <hi>Bibles.</hi>
+            </p>
+            <p>For there are good Rea<g ref="char:EOLhyphen"/>ſons upon which learned Men conjecture that <hi>Job</hi> liv<g ref="char:EOLhyphen"/>ed in the time of the <hi>Patri<g ref="char:EOLhyphen"/>archs,</hi> being a <hi>Nephew</hi> of <hi>Abraham,</hi> deſcended from <hi>E<g ref="char:EOLhyphen"/>ſau;</hi> and that <hi>Moſes</hi> met with this <hi>Hiſtory</hi> of him while he ſojourned in the Land of <hi>Midian,</hi> where he tranſlated it out of the <hi>Arabi<g ref="char:EOLhyphen"/>an</hi> into the <hi>Hebrew</hi> Language;
+<pb n="15" facs="tcp:93606:8"/>and compos'd the Diſcourſes between <hi>Job</hi> and his three Friends in that <hi>Metre</hi> in which we now read them; and that when he return'd to his Brethren in <hi>Egypt,</hi> he pre<g ref="char:EOLhyphen"/>ſented this <hi>Book</hi> to them, to teach them <hi>Patience</hi> under their <hi>Afflictions</hi> from <hi>Job</hi>'s Example, and to confirm their <hi>Faith</hi> and <hi>Hope</hi> in the Divine. Mercy, from the <hi>Deliverance</hi> and <hi>Reward</hi> which God wrought for him: of which an antient Author, under the Name of <hi>Origen,</hi> is ſo certain, that he recites a <hi>Speech</hi> made by <hi>Moſes</hi> to the People of <hi>Iſrael,</hi> when he <hi>publiſh'd</hi> this <hi>excellent Book</hi> among them.</p>
+            <pb n="16" facs="tcp:93606:9"/>
+            <p>But this <hi>Hiſtory</hi> is not more conſiderable for its <hi>Antiquity</hi> than for its <hi>Uſeful<g ref="char:EOLhyphen"/>neſs,</hi> which acquaints us with ſeveral <hi>important Truths,</hi> that we could not know but by <hi>Revelation,</hi> and which are not <hi>declared ſo expreſly</hi> in any other part of the Holy Scriptures, as in this Book; and alſo ſets before us an eminent <hi>Pattern</hi> of <hi>Patience,</hi> to inſtruct and ſupport us under the many Troubles to which we are here always obnoxious.</p>
+            <p>For firſt in peruſing this <hi>Hiſtory</hi> we meet with ſuch conſiderable Truths as theſe.</p>
+            <p n="l">1. That God takes a par<g ref="char:EOLhyphen"/>ticular and kind <hi>notice</hi> of all his Faithful Servants, and re<g ref="char:EOLhyphen"/>flects
+<pb n="17" facs="tcp:93606:9"/>on them with <hi>Complacen<g ref="char:EOLhyphen"/>cy,</hi> and is ready to bear an honourable <hi>Teſtimony</hi> of their Innocence; for thus he <hi>ſpeaks,</hi> and even <hi>boaſts</hi> of his Servant <hi>Job</hi> to <hi>Satan,</hi>
+               <note place="margin">Chap. 1. v. 8.</note> 
+               <hi>Haſt thou conſi<g ref="char:EOLhyphen"/>dered my Servant</hi> Job, <hi>that there is none like him in the Earth, a perfect and an upright Man, one that feareth God and eſ<g ref="char:EOLhyphen"/>cheweth evil?</hi> Which is a great Incouragement to a good Man, that tho the Devil <hi>ac<g ref="char:EOLhyphen"/>cuſe</hi> him, his Friends <hi>reproach</hi> him, and the World <hi>condemn</hi> him, yet God that ſearcheth the Heart doth <hi>approve</hi> and <hi>commend</hi> him.</p>
+            <p n="2">2. We are informed alſo from this <hi>Hiſtory,</hi> how Satan dares to <hi>accuſe,</hi> even to God
+<pb n="18" facs="tcp:93606:10"/>himſelf, his moſt Faithful Servants, if not of <hi>outward Scandal,</hi> yet of <hi>inward Hy<g ref="char:EOLhyphen"/>pocriſy;</hi> for thus the Lying Spirit drew up a Charge a<g ref="char:EOLhyphen"/>gainſt <hi>Job:</hi>
+               <note place="margin">Ch. 1, v. 9, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Doth</hi> Job <hi>fear God for nought? Haſt not thou made a Hedge about him, and about his Houſe, and about all that he hath on every ſide? Thou haſt bleſſed the work of his Hands, and his Subſtance is in<g ref="char:EOLhyphen"/>creaſed in the Land: But put forth thy Hand, and touch all that he hath, and he will curſe thee to thy Face.</hi> And when this Pretence was refuted, he again ſuggeſts, That if <hi>God would put out his Hand,</hi>
+               <note place="margin">Chap. 2. v. 5.</note> 
+               <hi>and touch his Bone and Fleſh, he would curſe God to his Face.</hi>
+            </p>
+            <pb n="19" facs="tcp:93606:10"/>
+            <p>Whence we may learn how Satan is call'd the <hi>Accuſer of the Brethren,</hi>
+               <note place="margin">Rev. 12.10.</note> 
+               <hi>who accuſeth them be<g ref="char:EOLhyphen"/>fore God Day and Night;</hi> and how great a <hi>Priviledg</hi> the Go<g ref="char:EOLhyphen"/>ſpel hath diſcover'd to us, that we have the <hi>Son</hi> of God to be our <hi>Advocate,</hi> to <hi>juſtify</hi> us in the <hi>Court</hi> of <hi>Heaven,</hi> againſt the malicious <hi>Allegations</hi> of this <hi>Ad<g ref="char:EOLhyphen"/>verſary.</hi> This alſo may render an eaſy account of the <hi>perverſe Malice</hi> of Wicked Men, who take great Pleaſure in <hi>reproaching</hi> the Faithful Servants of God, if not of any <hi>apparent Wicked<g ref="char:EOLhyphen"/>neſs,</hi> yet of ſome <hi>latent ſuſpected Hypocriſy,</hi>
+               <note place="margin">Joh. 8.44.</note> for <hi>they being of their Father the Devil, his Luſts they will do; who is a Lyar, and the Fa<g ref="char:EOLhyphen"/>ther of Lies.</hi>
+            </p>
+            <pb n="20" facs="tcp:93606:11"/>
+            <p n="3">3. We may hence alſo diſ<g ref="char:EOLhyphen"/>cover that thoſe Calamities which befal Mankind, are chief<g ref="char:EOLhyphen"/>ly wrought by the Agency of the Devil, who is deſcrib'd in the Scripture, as the <hi>Prince of the Power of the Air,</hi> the <hi>Deſtroyer,</hi> a <hi>Murderer from the beginning,</hi> the great <hi>Tempter</hi> and <hi>Tormenter</hi> of Men, the chief <hi>Author</hi> of all <hi>Evil,</hi> either of <hi>Sin</hi> or of <hi>Mi<g ref="char:EOLhyphen"/>ſery:</hi> who ſometimes <hi>tempts</hi> Men to <hi>miſchieve themſelves,</hi> ſometimes to <hi>miſchieve others;</hi> and who can uſe <hi>Fire,</hi> or <hi>Water, Clouds,</hi> or <hi>Wind,</hi> or other <hi>Crea<g ref="char:EOLhyphen"/>tures</hi> to be the <hi>Means</hi> and <hi>In<g ref="char:EOLhyphen"/>ſtruments</hi> of our <hi>Ruine.</hi>
+            </p>
+            <p>Thus <hi>Job</hi> fear'd leſt he might have <hi>Tempted</hi> his Children to <hi>abuſe themſelves</hi> at their Feaſt.
+<pb n="21" facs="tcp:93606:11"/>Thus he ſtirr'd up the <hi>Sabeans</hi> and <hi>Caldeans</hi> to rob <hi>Job,</hi> and procur'd a <hi>Fire from Heaven</hi> to conſume his Cattel and Ser<g ref="char:EOLhyphen"/>vants, and a <hi>ſtrong Wind</hi> from the Wilderneſs to overturn the Houſe, in which his Children were Feaſting; and thoſe <hi>ill Humours</hi> in <hi>Job</hi>'s Body which broke out in <hi>Boils</hi> from Head to Foot.</p>
+            <p>Which <hi>Diſcovery</hi> may be of uſe to guard us with the ſtricteſt <hi>Caution,</hi> and ſtrongeſt <hi>Indignati<g ref="char:EOLhyphen"/>on</hi> againſt that <hi>Tempter,</hi> who is ſo great an <hi>Enemy;</hi> and may al<g ref="char:EOLhyphen"/>ſo help us to conceive how ſome extraordinary <hi>Calamities,</hi> which ſometimes ſurprize us, are <hi>produc'd,</hi> tho no other <hi>natu<g ref="char:EOLhyphen"/>ral cauſes</hi> of them do appear.</p>
+            <pb n="22" facs="tcp:93606:12"/>
+            <p n="4">4. We may further learn from this <hi>Hiſtory</hi> that the <hi>Devil</hi> and his <hi>Legions,</hi> with all their <hi>Malice</hi> &amp; <hi>Power,</hi> are able to <hi>effect</hi> no <hi>Miſchief</hi> againſt us, but <hi>then only,</hi> and <hi>fo far</hi> as God gives them <hi>permiſſion:</hi> For we find that the <hi>Devil</hi> could not <hi>hurt Job,</hi> tho <hi>eager</hi> in his <hi>Malice</hi> a<g ref="char:EOLhyphen"/>gainſt him, till God ſaid to him, <hi>Behold all that he hath is in thy Power:</hi> And at firſt he could not hurt his Perſon, becauſe God <hi>reſtrain'd</hi> him by a Prohi<g ref="char:EOLhyphen"/>bition, <note place="margin">Chap. 1. ver. 12.</note> 
+               <hi>only upon himſelf put not forth thy Hand.</hi> And when the Devil ſought to have his Com<g ref="char:EOLhyphen"/>miſſion inlarg'd, God gave him Power over <hi>Job</hi>'s Body, ſaying <hi>Behold he is in thy Hand,</hi>
+               <note place="margin">Chap. 2. ver. 6.</note> yet then alſo reſtrain'd him with
+<pb n="23" facs="tcp:93606:12"/>this Exception, <hi>But ſave his Life.</hi>
+            </p>
+            <p>And this is matter of great Comfort and Incouragement to us, that we are not <hi>abandon'd</hi> to the <hi>powerful Malice</hi> of the De<g ref="char:EOLhyphen"/>vil, that tho he goes about as a <hi>roaring Lion ſeeking to devour,</hi> yet he cannot go beyond the <hi>Tedder</hi> of his <hi>Chain;</hi> that an <hi>Al<g ref="char:EOLhyphen"/>mighty Wiſdom and Goodneſs</hi> watcheth over us in a <hi>continual Providence,</hi> and that God will be <hi>faithful to us in not ſuffering us to be tempted beyond what we are able to bear,</hi>
+               <note place="margin">1 Cor. 10.13.</note> 
+               <hi>and will with every Temptation make a way for us to eſcape, that we may be able to bear it.</hi>
+            </p>
+            <p n="5">5. We are alſo inform'd from hence, that God doth
+<pb n="24" facs="tcp:93606:13"/>ſometimes permit the Devil to afflict his Servants, not out of <hi>Wrath</hi> againſt them, but only to <hi>approve</hi> and <hi>exerciſe</hi> their Gra<g ref="char:EOLhyphen"/>ces, for the Advancement of his own <hi>Glory</hi> and of their <hi>Praiſe,</hi> and for the increaſe of their <hi>Graces</hi> here, and of their <hi>Re<g ref="char:EOLhyphen"/>wards</hi> hereafter.</p>
+            <p>This is evident from the <hi>Cha<g ref="char:EOLhyphen"/>racter</hi> God gives of <hi>Job,</hi> and the <hi>Favour</hi> and <hi>Delight</hi> he ex<g ref="char:EOLhyphen"/>preſſeth towards him, both be<g ref="char:EOLhyphen"/>fore and after his Sufferings; <hi>The Lord ſaid unto Satan,</hi>
+               <note place="margin">Ch. 2, v. 3.</note> 
+               <hi>Haſt thou conſidered my Servant</hi> Job, <hi>that there is none like him in the Earth, a perfect and an upright Man, one that feareth God, and eſcheweth Evil? and ſtill he hold<g ref="char:EOLhyphen"/>eth faſt his Integrity, altho thou
+<pb n="25" facs="tcp:93606:13"/>movedſt me againſt him, to deſtroy him without a cauſe.</hi>
+            </p>
+            <p>This may <hi>ſupport</hi> and <hi>in<g ref="char:EOLhyphen"/>courage</hi> us under any Suffer<g ref="char:EOLhyphen"/>ings, when our <hi>Conſciences</hi> can atteſt our Integrity as <hi>Jobs</hi> did; and teach us to ſuffer chearful<g ref="char:EOLhyphen"/>ly for <hi>God's ſake,</hi> when we do not ſuffer for <hi>our own.</hi> This may alſo <hi>reſtrain</hi> us from mak<g ref="char:EOLhyphen"/>ing any <hi>reproachful Reflections</hi> upon the Afflictions of God's Servants, as <hi>Job's</hi> Friends did on his, becauſe God may per<g ref="char:EOLhyphen"/>mit them for other <hi>wiſe</hi> and <hi>good</hi> Ends, beſide that of <hi>Pu<g ref="char:EOLhyphen"/>niſhment.</hi>
+            </p>
+            <p n="2">2. This Hiſtory doth not only teach us ſuch <hi>uſeful Leſſons,</hi> but alſo exhibits to us a very eminent pattern of <hi>Meekneſs</hi>
+               <pb n="26" facs="tcp:93606:14"/>and <hi>Patience,</hi> very needful to <hi>Inſtruct</hi> and <hi>Incourage</hi> us in the difficult Duty of bearing, as we ought, thoſe <hi>Calamities</hi> and <hi>Afflictions,</hi> which are our com<g ref="char:EOLhyphen"/>mon Portion in this World.</p>
+            <p>Whilſt we dwell in this lower World, deprav'd with the <hi>Malignity</hi> of <hi>Sin,</hi> and <hi>Blaſt<g ref="char:EOLhyphen"/>ed</hi> with the <hi>Curſe</hi> of God's <hi>Diſ<g ref="char:EOLhyphen"/>pleaſure,</hi> we cannot but expect to meet with a great variety of <hi>Croſſes</hi> and <hi>Diſappointments, Mi<g ref="char:EOLhyphen"/>ſeries,</hi> and <hi>Calamities,</hi> inſomuch that <hi>Suffering</hi> is become at leaſt one half of our Duty, and <hi>Pa<g ref="char:EOLhyphen"/>tience</hi> is a Grace of as <hi>perpetual</hi> and <hi>common</hi> uſe as any other whatſoever.</p>
+            <p>And this part of our Duty is ſo <hi>irkſome</hi> to Fleſh and Blood,
+<pb n="27" facs="tcp:93606:14"/>that we need the moſt <hi>Forcible</hi> Helps and Supports to contain us in the performance of it. Now nothing doth more <hi>ſenſi<g ref="char:EOLhyphen"/>bly</hi> incourage us under Suffer<g ref="char:EOLhyphen"/>ings, then proper and eminent <hi>Examples,</hi> which at once <hi>De<g ref="char:EOLhyphen"/>monſtrate</hi> to us, that our Af<g ref="char:EOLhyphen"/>flictions are <hi>Tolerable,</hi> becauſe we ſee them Born by others, and alſo <hi>excite</hi> in us a generous <hi>Emulation</hi> to acquit our ſelves as well as our fellow Servants, who have been in a like or worſe Condition.</p>
+            <p>But among all the Patterns of <hi>Patience,</hi> there is none com<g ref="char:EOLhyphen"/>parable with this of <hi>Job</hi> (ex<g ref="char:EOLhyphen"/>cepting that of our <hi>Saviour</hi> who was more than a Man) whom God ſeems to have <hi>ex<g ref="char:EOLhyphen"/>ercis'd</hi>
+               <pb n="28" facs="tcp:93606:15"/>with ſuch extraordinary Trials, and to have <hi>recorded</hi> his Hiſtory in the Holy Scrip<g ref="char:EOLhyphen"/>tures <hi>purpoſely</hi> for our <hi>Imitation</hi> and <hi>Incouragement.</hi>
+            </p>
+            <p>And that its great <hi>uſefulneſs</hi> herein may more appear, let us a little diſplay and view over this illuſtrious <hi>Example.</hi> Be<g ref="char:EOLhyphen"/>hold here a <hi>perfect</hi> and <hi>upright</hi> man undergoing the <hi>heavieſt Calamities,</hi> falling from the <hi>height</hi> of proſperity into the loweſt <hi>depth</hi> of Miſery, ſur<g ref="char:EOLhyphen"/>priz'd by his Calamities on a <hi>ſudden,</hi> which came upon him <hi>altogether,</hi> without <hi>Intermiſſion,</hi> and were of ſo <hi>extraordinary</hi> a Nature as, at once, to <hi>deprive</hi> him of all his <hi>Comforts,</hi> and <hi>plunge</hi> him into the loweſt
+<pb n="29" facs="tcp:93606:15"/>State of <hi>Wretchedneſs:</hi> For, all his great <hi>Eſtate,</hi> which accord<g ref="char:EOLhyphen"/>ing to thoſe Times and Coun<g ref="char:EOLhyphen"/>tries, conſiſted of <hi>Servants</hi> and <hi>Cattel,</hi> was in one day con<g ref="char:EOLhyphen"/>ſumed by <hi>Sabeans</hi> and <hi>Caldeans,</hi> and a <hi>Fire</hi> from Heaven.</p>
+            <p>And as ſoon as he knew himſelf to be reduced to per<g ref="char:EOLhyphen"/>fect <hi>Poverty,</hi> he is told alſo that he is become <hi>Childleſs,</hi> and that his Children periſh'd to<g ref="char:EOLhyphen"/>gether, by an unuſual Death, under the <hi>Ruins</hi> of the Houſe in which they were <hi>Feaſting,</hi> Nor was he only ſtrip'd naked of all his <hi>outward</hi> comforts, but the Calamity ſeizeth on his <hi>Perſon</hi> too, and ſpreads over him a moſt <hi>Noiſome</hi> and <hi>Pain<g ref="char:EOLhyphen"/>ful</hi> diſeaſe. And that the good
+<pb n="30" facs="tcp:93606:16"/>Man might have <hi>nothing</hi> to ſup<g ref="char:EOLhyphen"/>port him under all this Miſe<g ref="char:EOLhyphen"/>ry, but <hi>God</hi> and his own <hi>Con<g ref="char:EOLhyphen"/>ſcience,</hi> his <hi>Wife,</hi> who ſhould have been his <hi>Helper,</hi> became his <hi>Tempter,</hi> and his <hi>Friends</hi> did but <hi>Aggravate</hi> his ſorrows with harſh <hi>Cenſures</hi> and unjuſt <hi>Re<g ref="char:EOLhyphen"/>proaches.</hi> What Eſtate on this ſide of Death can we conceive more Calamitous than this?</p>
+            <p>Let us now reflect on this <hi>Worthy wretched</hi> Man, and be<g ref="char:EOLhyphen"/>hold his <hi>Behaviour,</hi> and admire his <hi>invincible Patience.</hi> When <hi>Job</hi> had heard that he was de-Priv'd of all his Eſtate and his Children too, he indeed <hi>Rent his Mantle,</hi> and <hi>ſhav'd his Head,</hi> and <hi>fell down on the Ground,</hi> as o ne that was not
+<pb n="31" facs="tcp:93606:16"/>
+               <hi>ſtupidly inſenſible</hi> of ſuch extra<g ref="char:EOLhyphen"/>ordinary Events; but withal he <hi>worſhip'd</hi> toward Heaven, and expres'd his <hi>Reſentments</hi> in this <hi>Pious Devout</hi> acknowledg<g ref="char:EOLhyphen"/>ment. <hi>Naked came I out of my Mothers Womb,</hi>
+               <note place="margin">Chap. 1. v. 21, 22.</note> 
+               <hi>and Naked ſhall I return thither: the Lord gave, and the Lord hath taken a<g ref="char:EOLhyphen"/>way; bleſſed be the Name of the Lord.</hi> And the Holy Ghoſt makes this Reflection on his behaviour in the next Verſe, <hi>In all this</hi> Job <hi>ſinned not, neither charged God fooliſhly.</hi> When af<g ref="char:EOLhyphen"/>terwards his Body was af<g ref="char:EOLhyphen"/>terwards his Body was af<g ref="char:EOLhyphen"/>flected with the anguiſh and ſtench of unuſual Boils, he contentedly ſat him down a<g ref="char:EOLhyphen"/>mong the Aſhes, and reliev'd himſelf, as well as he could
+<pb n="32" facs="tcp:93606:17"/>with the broken Potſherds that lay about him.</p>
+            <p>And when his Wife could no longer <hi>ſuppreſs</hi> her <hi>Paſſions,</hi> or <hi>lengthen</hi> out her <hi>Patience,</hi> but in a tranſport of <hi>Fury</hi> call'd on him to <hi>curſe God</hi> and <hi>Die;</hi> He replies, more <hi>angry</hi> with <hi>Her</hi> then with his <hi>Condition, Thou ſpeakeſt as one of the fooliſh Wo<g ref="char:EOLhyphen"/>men ſpeaketh;</hi> and that he might <hi>Convince</hi> as well as <hi>Rebuke</hi> her, he ſuggeſts to her conſidera<g ref="char:EOLhyphen"/>tion this reaſonable Argument, <hi>What? ſhall we receive Good at the Hand of God, and ſhall we not receive Evil?</hi> And here the Ho<g ref="char:EOLhyphen"/>ly Ghoſt hath thought fit to bear his Teſtimony a ſecond Time that, <hi>in all this Job ſinned not with his Lips.</hi>
+            </p>
+            <pb n="33" facs="tcp:93606:17"/>
+            <p>This is a pattern that we cannot enough <hi>admire,</hi> but let us alſo labour to imitate it; And that we may attain to ſuch an excellent frame of Spirit, let us ſtudy well this ſhort Ar<g ref="char:EOLhyphen"/>gument wherewith <hi>Job</hi> go<g ref="char:EOLhyphen"/>vern'd his own Heart, and in<g ref="char:EOLhyphen"/>deavour'd to reſtrain the impa<g ref="char:EOLhyphen"/>tience of his Wife, <hi>What? ſhall we receive Good at the Hand of God, and ſhall we not receive Evil?</hi>
+            </p>
+            <p>The Argument is propos'd in the form of a Queſtion, and <hi>accented</hi> with an unuſual <hi>earneſt<g ref="char:EOLhyphen"/>neſs,</hi> that it might enter the Mind with a <hi>greater Force,</hi> and produce in it a more <hi>ſpeedy</hi> and <hi>through</hi> Conviction.</p>
+            <p>We may reſolve the Argu<g ref="char:EOLhyphen"/>ment into theſe two parts.</p>
+            <pb n="34" facs="tcp:93606:18"/>
+            <list>
+               <item>I. An Antecedent ſuppos'd, That we <hi>receive our Good from the Hand of God.</hi>
+               </item>
+               <item>II. A Conſequent thereupon inferr'd, That we <hi>ought to receive any Evil from the ſame Hand.</hi>
+               </item>
+            </list>
+            <p>The plain Senſe and Deſign of the Argument is this, That as we receive all our Bleſſings from God's <hi>bountiful</hi> Hand; ſo we ſhould be ready to accept any <hi>Afflictions</hi> from his <hi>correcting</hi> Hand.</p>
+            <p>In diſcourſing on this Argu<g ref="char:EOLhyphen"/>ment, I deſign to do theſe three Things.</p>
+            <pb n="35" facs="tcp:93606:18"/>
+            <p>
+               <hi>Firſt,</hi> To explicate its Senſe, that we may fully underſtand thoſe things which are expreſs'd or implied in it.</p>
+            <p>
+               <hi>Secondly,</hi> To diſcover the Force of the Argument, that we may be convinced by it.</p>
+            <p>
+               <hi>Thirdly,</hi> To apply it, for di<g ref="char:EOLhyphen"/>recting and containing us in the Diſcharge of ſo neceſſary a Duty.</p>
+            <p>
+               <hi>Firſt,</hi> I begin to <hi>explain</hi> the Argument, That we may un<g ref="char:EOLhyphen"/>derſtand thoſe Things which are expreſs'd or implied in it: And this may be ſufficiently done by inquiring into theſe three Things.</p>
+            <list>
+               <item>1. What is that <hi>Good</hi> and <hi>Evil</hi> which are mention'd in the Argument?</item>
+               <pb n="36" facs="tcp:93606:19"/>
+               <item>2. What that <hi>Hand</hi> is by which this Good and Evil is diſpens'd?</item>
+               <item>3. How we ſhould <hi>receive</hi> both Good and Evil from that Hand.</item>
+            </list>
+            <p n="1">1. Let us conſider what that <hi>Good</hi> and <hi>Evil</hi> is which is ex<g ref="char:EOLhyphen"/>preſs'd in the Argument? It is plain enough from the Con<g ref="char:EOLhyphen"/>text, that <hi>Job</hi> did deſign by <hi>Good</hi> and <hi>Evil,</hi> nothing elſe but thoſe Temporal <hi>Bleſſings</hi> and <hi>Calami<g ref="char:EOLhyphen"/>ties,</hi> of both which he had ſo great a ſhare, as this Hiſtory deſcribes. And tho moſt Men are quick enough of Senſe in the things of this World, to diſtinguiſh between <hi>Good</hi> and <hi>Evil;</hi> ſo that they need not be told that Riches and Ho<g ref="char:EOLhyphen"/>nours,
+<pb n="37" facs="tcp:93606:19"/>Health and Long-Life are <hi>good Things,</hi> and that Po<g ref="char:EOLhyphen"/>verty and Diſgrace, Sickneſs and Death are <hi>evil Things;</hi> Yet they are perchance very few who underſtand the <hi>Nature</hi> or <hi>Degree</hi> of that <hi>Goodneſs</hi> or <hi>Evil</hi> which are aſcrib'd to the things of this World, and therefore it may be needful to teach them this piece of <hi>Sacred Philoſophy:</hi> That Man being compounded of ſuch different parts as a <hi>Spi<g ref="char:EOLhyphen"/>rit</hi> and a <hi>Body,</hi> he hath conſe<g ref="char:EOLhyphen"/>quently very <hi>different Intereſts,</hi> ſuch as are <hi>Spiritual,</hi> and ſuch as are <hi>Carnal,</hi> and that <hi>thoſe</hi> excel <hi>theſe,</hi> as much as a <hi>Spirit</hi> doth excel a <hi>Body:</hi> from whence we ſhould infer, that thoſe things are <hi>Good</hi> or <hi>Evil</hi> to a Man
+<pb n="38" facs="tcp:93606:20"/>in the <hi>higheſt</hi> ſenſe, which can promote or deſtroy the <hi>nobleſt Intereſts</hi> of his <hi>Spiritual</hi> part, and thoſe things are Good or Evil but of an <hi>inferior Kind</hi> or in a <hi>lower Degree,</hi> which con<g ref="char:EOLhyphen"/>cern the welfare only of the <hi>Body.</hi>
+            </p>
+            <p>Now the things of this low<g ref="char:EOLhyphen"/>er World about us, do not in their Natures import any <hi>Good</hi> or <hi>Evil</hi> to that <hi>Soul</hi> which is the chief part of the Man; for a Man may abound in <hi>Riches,</hi> and yet be deſtitute of true <hi>Wiſ<g ref="char:EOLhyphen"/>dom;</hi> he may cover a <hi>deformed Mind</hi> with a <hi>beautiful Body:</hi> or the more the <hi>outward Man de<g ref="char:EOLhyphen"/>cays,</hi> the <hi>inward Man</hi> may be renewed. Yea theſe Temporal things are <hi>indifferent</hi> of them<g ref="char:EOLhyphen"/>ſelves
+<pb n="39" facs="tcp:93606:20"/>to become either <hi>Good</hi> or <hi>Evil</hi> to us, according as they are <hi>blest</hi> by God, and <hi>improv'd</hi> by us: for <hi>Riches, Honours, and Pleaſures</hi> may prove very <hi>evil</hi> Things, if they <hi>debauch</hi> our Minds with <hi>Vanity</hi> and <hi>Pride;</hi> and <hi>Poverty, Diſgrace,</hi> and <hi>Sick<g ref="char:EOLhyphen"/>neſs,</hi> which we make the in<g ref="char:EOLhyphen"/>ſtances of <hi>Adverſity,</hi> may be<g ref="char:EOLhyphen"/>come very <hi>good</hi> Things to us, if they render our Minds more <hi>Sober</hi> &amp; <hi>Teachable,</hi> and our Hearts more <hi>Meek</hi> and <hi>Submiſſive.</hi>
+            </p>
+            <p>Wherefore the <hi>Stoicks,</hi> who in Matters of Morality came neareſt to the Inſtitutions of our <hi>Holy Religion,</hi> were Unani<g ref="char:EOLhyphen"/>mous and confident in this <hi>Maxime,</hi> that there was no <hi>Good</hi> or <hi>Evil</hi> but only <hi>Virtue</hi>
+               <pb n="40" facs="tcp:93606:21"/>and <hi>Vice.</hi> So <hi>Tacitus</hi> deſcribes <hi>Helvidius Priſcus,</hi>
+               <note place="margin">Doctores ſapientiae ſecutus eſt, qui ſola bona quae honeſta; mala tan<g ref="char:EOLhyphen"/>tum quae turpia, potentiam nobilita<g ref="char:EOLhyphen"/>tem, caete<g ref="char:EOLhyphen"/>ra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> extra animum ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> bonis ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> malis annume<g ref="char:EOLhyphen"/>rant. <hi>Tacit. Hiſt. lib.</hi> 4.</note> That he <hi>fol<g ref="char:EOLhyphen"/>lowed thoſe Masters of Wiſdom who taught that thoſe Things only were Good which were Honest, and only thoſe things Evil which were diſhonest, but Power, Honour, and other ſuch things which affect<g ref="char:EOLhyphen"/>ed the outward Man, they ac<g ref="char:EOLhyphen"/>counted not to be either Good or Evil.</hi> And tho we Acknow<g ref="char:EOLhyphen"/>ledg that they went too far in this Aſſertion, and that Ac<g ref="char:EOLhyphen"/>cording to the ſtyle of the Ho<g ref="char:EOLhyphen"/>ly Scriptures we are allow'd to call Temporal things <hi>Good</hi> or <hi>Evil,</hi> and there be this plain Reaſon for it, becauſe theſe things reſpect the Intereſts of the <hi>Body</hi> which is a part of the Man, tho the ignobleſt part in
+<pb n="41" facs="tcp:93606:21"/>the Compoſition; yet after all we muſt aſſert that theſe <hi>out<g ref="char:EOLhyphen"/>ward</hi> things are not <hi>Good</hi> or <hi>Evil</hi> in an <hi>Abſolute</hi> ſenſe with re<g ref="char:EOLhyphen"/>ſpect to the whole Man, or in the higheſt Senſe with reſpect o his more valuable Intereſts; and that in the <hi>ſtrictest Senſe</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe things only deſerve to be accounted <hi>good</hi> or <hi>evil</hi> to a Man, which can <hi>affect</hi> the <hi>Spiritual interests</hi> of his <hi>Soul.</hi>
+            </p>
+            <p>Theſe notions will be very uſeful to us for Proportioning our <hi>Eſtimations</hi> and <hi>Affections</hi> toward the things of this World; for allowing them to be in <hi>ſome degree Good</hi> or <hi>Evil,</hi> we ſhall be diſpos'd to <hi>thank</hi> God for <hi>Temporal Bleſſings,</hi> and to <hi>humble</hi> our Selves under his
+<pb n="42" facs="tcp:93606:22"/>
+               <hi>Temporal Corrections;</hi> but know<g ref="char:EOLhyphen"/>ing withal that there are other things which relate to our Spi<g ref="char:EOLhyphen"/>ritual Intereſts, which do comparatively far exceed them in their <hi>Goodneſs</hi> or <hi>Evil,</hi> we ſhall be induc'd to regard <hi>theſe</hi> with our <hi>higheſt Eſtimations,</hi> and our <hi>ſtrongeſt Affections.</hi>
+            </p>
+            <p n="2">2. We are next to conſider what that Hand is, which diſ<g ref="char:EOLhyphen"/>penſeth to us both our <hi>Good</hi> and <hi>Evil</hi> things; the Text aſſerts it to be the <hi>Hand</hi> of God, which can import nothing elſe but the <hi>Power</hi> and <hi>Inſtuence</hi> of his conti<g ref="char:EOLhyphen"/>nual <hi>Providence,</hi> whereby he <hi>ſuſtains</hi> the <hi>Beings</hi> he hath given us, and <hi>diſpoſeth</hi> of all <hi>Events</hi> and <hi>Circumſtances</hi> about us, ſo that nothing doth or can <hi>befall</hi>
+               <pb n="43" facs="tcp:93606:22"/>us, <hi>without,</hi> or <hi>contrary</hi> to the <hi>Council of his Will.</hi> This hand of providence deals out to e<g ref="char:EOLhyphen"/>very Man that proportion of <hi>Good</hi> or Evil, which the divine Wiſdom thinks fit to aſſign to him, ſo that nothing happens to us by a blind <hi>Fortune,</hi> or an <hi>unaccountable Fate,</hi> but by the Conduct of that good God, who is the great <hi>Creator</hi> and <hi>Sovereign</hi> of the whole World.</p>
+            <p>If therefore there be any Creatures about us which are <hi>Good</hi> or <hi>Hurtful</hi> to us, it was the <hi>Hand</hi> that made them, which put thoſe <hi>Qualities</hi> into them. If any <hi>Good</hi> accrue to us thrô our <hi>own Skill</hi> and <hi>In<g ref="char:EOLhyphen"/>duſtry,</hi> or by the <hi>Care</hi> and <hi>Fa<g ref="char:EOLhyphen"/>vour</hi> of our <hi>Friends,</hi> we muſt
+<pb n="44" facs="tcp:93606:23"/>acknowledg that <hi>We,</hi> or our <hi>Friends,</hi> are but <hi>Inſtruments</hi> in the <hi>Hand</hi> of God, for conveying ſuch <hi>Bleſſings</hi> to us: Or if we ſuffer thrô our <hi>own Default,</hi> or the <hi>Injury</hi> of other Men, we are to account of our <hi>ſelves</hi> or our <hi>Enemies,</hi> as <hi>Rods</hi> in his <hi>Hand,</hi> whereby he inflicts ſuch <hi>Pu<g ref="char:EOLhyphen"/>niſhments</hi> upon us.</p>
+            <p>Thus the pious King of Iſ<g ref="char:EOLhyphen"/>rael acknowledged to God: <hi>All that is in Heaven or in Earth is thine;</hi>
+               <note place="margin">1 Chron. 19.11, 12.</note> 
+               <hi>thine is the Kingdom, O Lord, and thou art exalted above all; both Riches and Honour come of thee, in thy Hand is Power and Might, and in thine Hand it is to make great, and to give Strength unto all.</hi> So on the other Hand the Prophet demands, <hi>Shall there
+<pb n="45" facs="tcp:93606:23"/>be Evil in a City and the Lord hath not done it?</hi>
+               <note place="margin">Amos 3.6.</note> and with reſpect to both kind of Events, God him<g ref="char:EOLhyphen"/>ſelf declares, <hi>I form the Light,</hi>
+               <note place="margin">Iſa. 45.7.</note> 
+               <hi>and create Darkneſſs; I make Peace, and create Evil; I the Lord do all theſe things.</hi> And the <hi>Hand</hi> of God doth thus concern it ſelf not only in the <hi>greateſt</hi> and moſt <hi>important</hi> Events, but alſo in thoſe which may ſeem moſt <hi>ſlight</hi> and <hi>inconſiderable</hi> to us: for our Saviour aſſures us that <hi>God numbers our very Hairs,</hi>
+               <note place="margin">Luke 12.6, 7.</note> and that a <hi>Sparrow cannot fall to the Ground without his Knowledg.</hi>
+            </p>
+            <p>A right <hi>Apprehenſion,</hi> and firm <hi>Perſwaſion</hi> of our entire <hi>Dependence</hi> on the <hi>Hand</hi> of Di<g ref="char:EOLhyphen"/>vine <hi>Providence,</hi> in managing and ordering our <hi>Conditions</hi> in
+<pb n="46" facs="tcp:93606:24"/>this World, would have a very great <hi>influence</hi> on our <hi>Religious Devotion;</hi> for who would not be careful to pleaſe him who hath the diſpenſing of all <hi>Bleſ<g ref="char:EOLhyphen"/>ſings</hi> and <hi>Curſes?</hi> to whom ſhall we direct our <hi>Prayers</hi> for what we want, or our <hi>Thankſ<g ref="char:EOLhyphen"/>givings</hi> for what we enjoy, but to that bountiful Hand which is the Fountain of all our Bleſ<g ref="char:EOLhyphen"/>ſings? Or what can make us more <hi>Meek</hi> and <hi>Patient</hi> under Correction, than the ſight of that <hi>Almighty Hand</hi> which holds the <hi>Rod</hi> and lays on the <hi>Stroke?</hi>
+            </p>
+            <p n="3">3. We are in the laſt place to conſider how we ſhould <hi>receive</hi> both Good and Evil from the Hand of God. <hi>Job</hi> hath uſed but one word with
+<pb n="47" facs="tcp:93606:24"/>reſpect to both ſort of Events, and that word, <note place="margin">Debemus accipere ſive exci<g ref="char:EOLhyphen"/>pere cum affectu, lubentiâ reverentia &amp; acquieſ<g ref="char:EOLhyphen"/>centia; id enim <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſig<g ref="char:EOLhyphen"/>niſicat, nempe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> acipere quod ad Donum ſua natura re<g ref="char:EOLhyphen"/>fertur. <hi>Cocceius in locum.</hi>
+               </note> doth properly denote ſuch an <hi>Acceptance</hi> as that wherewith we entertain a <hi>Gift</hi> from a <hi>Superior,</hi> with a <hi>chearful Reverence,</hi> and a <hi>grace<g ref="char:EOLhyphen"/>ful acquieſcence.</hi> Now tho the deſign of the Argument would require only to explain how we ought to <hi>receive</hi> our <hi>evil Things</hi> from God's <hi>correcting Hand,</hi> yet inaſmuch as we are equally concern'd in the Duty of <hi>receiving Good</hi> as of <hi>receiving Evil;</hi> I think it will be worth our while, to Study out the <hi>right Art</hi> of doing both; in order to which I ſhall take both parts of this Duty under a diſtinct Conſideration.</p>
+            <pb n="48" facs="tcp:93606:25"/>
+            <p n="1">1. The right manner in which we ſhould <hi>receive our good Things</hi> from the Hand of God, doth conſiſt chiefly in this threefold diſpoſition of Mind, <hi>viz.</hi> that we receive God's bleſſings with a <hi>contented, thankful,</hi> and an <hi>honeſt</hi> Mind.</p>
+            <p n="1">(1.) We ſhould receive our <hi>good Things</hi> from God with a <hi>contented</hi> Mind, <hi>i.e.</hi> with a Mind that can contain it ſelf within thoſe Injoyments which God thinks fit to allow; ſo as to be <hi>well pleas'd</hi> with his <hi>Bleſſings</hi> of whatever <hi>Kind,</hi> in whatever <hi>Degree,</hi> by whatever <hi>Means,</hi> or at whatever <hi>Time</hi> confer'd up<g ref="char:EOLhyphen"/>on us; not to <hi>deſpiſe</hi> our <hi>Bleſ<g ref="char:EOLhyphen"/>ſings,</hi> or to be <hi>diſpiſe</hi> our <hi>Bleſ<g ref="char:EOLhyphen"/>ſings,</hi> or to be <hi>diſſatisfied</hi> with them becauſe they are not of
+<pb n="49" facs="tcp:93606:25"/>
+               <hi>ſuch a ſort,</hi> or not <hi>ſo much,</hi> or do not come in <hi>ſuch a way,</hi> or ſo <hi>ſoon</hi> as we would have them, and that we do not <hi>look askew</hi> on them with an <hi>evil Eye,</hi> or <hi>receive</hi> them <hi>awkardly</hi> with an <hi>unwilling, Hand.</hi>
+            </p>
+            <p>And to promote ſo good a Diſpoſition of Mind, we ſhould conſider that God is the <hi>abſolute Lord</hi> of all his Bleſſings, and may do with his <hi>own</hi> as he <hi>plea<g ref="char:EOLhyphen"/>ſeth;</hi> that his <hi>Hand</hi> is guided by an <hi>unerring Wiſdom,</hi> ſo as to diſpenſe them in an exact Pro<g ref="char:EOLhyphen"/>portion to every Mans <hi>Capacities</hi> and <hi>Neceſſities;</hi> that he is not ſtinted by any <hi>Penury</hi> of Bleſ<g ref="char:EOLhyphen"/>ſings, or <hi>Envy</hi> of our Happineſs; that he could and would give <hi>more</hi> or <hi>ſooner</hi> if he ſaw it <hi>fit</hi> for
+<pb n="50" facs="tcp:93606:26"/>us; that therefore it becomes us to contain our <hi>Deſires</hi> within the ſame <hi>Bounds,</hi> which his <hi>Wiſdom</hi> hath preſcrib'd to his own <hi>Bounty,</hi> to accept of our <hi>Share</hi> which the great <hi>Maſter</hi> of the <hi>Family</hi> of the <hi>World</hi> hath <hi>a<g ref="char:EOLhyphen"/>lotted</hi> to <hi>us</hi> among the <hi>reſt;</hi> leſt by any <hi>diſſatisfaction</hi> we <hi>reflect</hi> on <hi>God,</hi> as if he <hi>err'd</hi> in <hi>giving too little,</hi> or on our <hi>Selves</hi> in <hi>deſiring too much.</hi>
+            </p>
+            <p>If them God thinks fit to give us only <hi>Neceſſaries,</hi> let us ſtop our Deſires there, and not han<g ref="char:EOLhyphen"/>ker after <hi>Superfluities;</hi> if God gives us <hi>Health</hi> and <hi>Strength,</hi> let us be contented if we are not alſo <hi>Rich;</hi> let us be <hi>pleas'd</hi> and <hi>ſatisfied</hi> with the <hi>Children</hi> he gives us, the <hi>Friends</hi> he raiſeth up for
+<pb n="51" facs="tcp:93606:26"/>us, the <hi>Station</hi> he aſſigns to us, and the <hi>Competency</hi> he provides for us. And if he think fit to ſend us any good Things thrô our unw <hi>Induſtry,</hi> or the <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> of others, let us not be <hi>diſ<g ref="char:EOLhyphen"/>conteneed,</hi> thô we muſt <hi>labour</hi> or be <hi>beholden</hi> for them: and if our Bleſſings come not <hi>ſo ſoon</hi> as we <hi>deſired,</hi> yet let it <hi>ſatisfy</hi> us that they come in that <hi>Seaſon</hi> which Infinite <hi>Wiſdom</hi> thought moſt <hi>fit.</hi> Let us learn with St. <hi>Paul, How to want,</hi>
+               <note place="margin">Phil 4.11.</note> 
+               <hi>and how to abound, and in all eſtates to be con<g ref="char:EOLhyphen"/>tented;</hi> and practiſe that Duty which he preſcribes to all Chri<g ref="char:EOLhyphen"/>ſtians, <hi>Let your Coverſation be without Covetouſneſs,</hi>
+               <note place="margin">Heb. 13.5.</note> 
+               <hi>and be con<g ref="char:EOLhyphen"/>tent with ſuch Things as ye have.</hi>
+            </p>
+            <pb n="52" facs="tcp:93606:27"/>
+            <p n="2">(2.) We ſhould receive <hi>good Things</hi> from God's Hand with a <hi>Thankful</hi> Mind, <hi>i. e.</hi> with a Mind diſpos'd to acknowledg with <hi>grateful Affections</hi> God's great <hi>Bounty</hi> toward us, and the <hi>Returns</hi> we owe to him for it.</p>
+            <p>To this end, we ſhould keep on our Minds ſuch Apprehenſi<g ref="char:EOLhyphen"/>ons of <hi>God,</hi> and our <hi>Selves,</hi> and of the <hi>Bleſſings we receive,</hi> as will promote and cheriſh in us the moſt <hi>grateful Reſentments.</hi> We ſhould take care that we do not injuriouſly <hi>deny,</hi> or careleſly <hi>overlook</hi> our great <hi>Benefactor,</hi> leſt we withhold his Praiſes, or aſcribe them to a <hi>wrong hand.</hi> We ſhould conſider how high a <hi>Priviledg</hi> it is, that the great God of Heaven will condeſcend
+<pb n="53" facs="tcp:93606:27"/>to take care of us in a <hi>continual Providence.</hi> We ſhould conſi<g ref="char:EOLhyphen"/>der alſo how <hi>unworthy</hi> we are of the <hi>Bleſſings</hi> we <hi>enjoy;</hi> or rather how much we <hi>deſerve</hi> the <hi>ſeve<g ref="char:EOLhyphen"/>reſt Puniſhments.</hi> We ſhould alſo rate the Bleſſings we receive with a juſt <hi>value</hi> and <hi>eſteem;</hi> none ſhould ſem <hi>ſmall</hi> to us which come from ſo <hi>great</hi> a God, to ſuch <hi>worthleſs</hi> Perſons; we ſhould alſo conſider how <hi>innumerable</hi> they are; how <hi>con<g ref="char:EOLhyphen"/>ſtantly</hi> and <hi>continually</hi> they flow into our Boſoms; and how <hi>ſeaſonable, uſeful</hi> and <hi>delightful</hi> they prove to us.</p>
+            <p>And ſuch Conſiderations as theſe ſhould not only <hi>ſtart up</hi> at the Receipt of ſome new Bleſ<g ref="char:EOLhyphen"/>ſing, but ſhould <hi>dwell in</hi> our
+<pb n="54" facs="tcp:93606:28"/>Minds, to affect them always with a <hi>grateful Senſe</hi> of the <hi>im<g ref="char:EOLhyphen"/>menſe Goodneſs</hi> &amp; <hi>plenteous Bounty</hi> of our great <hi>Benefactor.</hi>
+            </p>
+            <p>If God's Bleſſings find us thus <hi>diſpos'd,</hi> they cannot fail of a moſt <hi>affectionate Entertainment;</hi> for the <hi>Thoughts</hi> which <hi>acknow<g ref="char:EOLhyphen"/>ledg</hi> and <hi>admire</hi> the Riches of Divine Goodneſs, will eaſily <hi>inflame</hi> the Heart with a <hi>ſtrong Love</hi> to God, as to the beſt of <hi>Patrons,</hi> the kindeſt <hi>Friend,</hi> and moſt indulgent <hi>Parent;</hi> they will melt us into <hi>ſorrow</hi> for the inexcuſable <hi>ingratitude</hi> of <hi>affron<g ref="char:EOLhyphen"/>ting</hi> and <hi>grieving</hi> ſo <hi>good a God</hi> in time paſt, and excite in us the moſt <hi>earneſt Reſolutions</hi> of an <hi>entire Devotion</hi> to him for the time to come.</p>
+            <pb n="55" facs="tcp:93606:28"/>
+            <p>And out of the <hi>abundance of the Heart</hi> thus diſpos'd, our <hi>Mouths</hi> will ſpeak forth <hi>his Praiſe,</hi> and our <hi>own Thankfulneſs.</hi> We ſhall not forbear to <hi>boaſt</hi> of God and his <hi>Favour</hi> towards us, to <hi>declare</hi> his <hi>Goodneſs,</hi> and to <hi>bleſs his Name</hi> both in our <hi>private</hi> and <hi>publick</hi> Devotion.</p>
+            <p>And theſe <hi>Cords of Love</hi> which ingage our Hearts will eaſily <hi>contain</hi> us in our Duty to ſo <hi>good a Lord,</hi> and oblige us to be <hi>dili<g ref="char:EOLhyphen"/>gent, faithful</hi> and <hi>cheerful</hi> in his Service, and make us very <hi>zea<g ref="char:EOLhyphen"/>lous</hi> for his Glory. Every Bleſſing receiv'd by ſuch a <hi>grateful Mind</hi> will fall like <hi>Rain</hi> on <hi>good Ground,</hi> and bring forth much <hi>Fruit</hi> to the <hi>praiſe</hi> of him that ſent it.</p>
+            <pb n="56" facs="tcp:93606:29"/>
+            <p>With ſuch <hi>Returns</hi> of <hi>Praiſe</hi> and <hi>Thankfulneſs</hi> we ſhould al<g ref="char:EOLhyphen"/>ways <hi>correſpond</hi> with our great <hi>Benefactor,</hi> ſending up to Hea<g ref="char:EOLhyphen"/>ven our <hi>Tributes</hi> of <hi>Gratitude,</hi> in ſome proportion to the Bleſ<g ref="char:EOLhyphen"/>ſings God ſends down to us; which is not more our <hi>Duty</hi> than it is our <hi>Intereſt;</hi> for as our God doth infinitely excel us in <hi>Goodneſs,</hi> ſo he regards more <hi>kindly</hi> the <hi>unprofitable Re<g ref="char:EOLhyphen"/>turns</hi> we make to him, than we do all the <hi>invaluable Bleſſings</hi> he beſtows on us, and will not fail to exceed our <hi>Gratitude</hi> with his <hi>Bounty.</hi>
+            </p>
+            <p>After this manner have good Men diſpos'd themſelves for re<g ref="char:EOLhyphen"/>ceiving the Bleſſings of Hea<g ref="char:EOLhyphen"/>ven; among whom we need
+<pb n="57" facs="tcp:93606:29"/>no better <hi>Pattern</hi> than the <hi>Royal Pſalmiſt,</hi> whoſe <hi>devotional Ad<g ref="char:EOLhyphen"/>dreſſes</hi> conſiſt chiefly of returns of <hi>Praiſe</hi> and <hi>Thanks,</hi> who had <hi>fix'd his Heart,</hi> and <hi>turn'd his Lyre</hi> purpoſely to this Duty, and reſolv'd to continue in it as <hi>long as he had a being;</hi> who alſo of<g ref="char:EOLhyphen"/>ten invites all <hi>other Men,</hi> yea all the <hi>Creatures of God,</hi> to join in <hi>Conſort</hi> with him, as <hi>ſharers</hi> with him in the Bleſſings of Divine Bounty.</p>
+            <p n="3">(3.) We ſhould receive our good <hi>Things</hi> from the Hand of God with an <hi>honeſt Mind, i. e.</hi> which a Mind <hi>honeſtly</hi> diſpos'd to acquire God's Bleſſings in his <hi>own Way,</hi> and to imploy them only to <hi>that End</hi> for which he <hi>deſigned them.</hi>
+            </p>
+            <pb n="58" facs="tcp:93606:30"/>
+            <p>If we project to obtain any Bleſſings by <hi>indirect Courſes</hi> and <hi>unlawful Means,</hi> we ſhall not <hi>receive,</hi> but rather <hi>ſnatch</hi> them out of the Hand of Pro<g ref="char:EOLhyphen"/>vidence; for he <hi>defrauds</hi> or <hi>robs</hi> God of his Bleſſings, who procures them by <hi>Injuſtice, Vio<g ref="char:EOLhyphen"/>lence,</hi> or <hi>Deceit;</hi> and if God ſuffer him to ſucceed therein, he muſt at laſt expect a <hi>Mix<g ref="char:EOLhyphen"/>ture of Sorrow</hi> with them; as <hi>Jacob</hi>'s Bleſſing was <hi>imbitter'd</hi> which he <hi>fraudulently</hi> wreſted from his <hi>deluded</hi> Father.</p>
+            <p>We ſhall alſo greatly <hi>abuſe</hi> God, if we <hi>Uſe</hi> his Bleſſings to any <hi>other purpoſe</hi> than he in<g ref="char:EOLhyphen"/>tended. How <hi>loud</hi> an <hi>Impiety</hi> muſt it needs be to make our <hi>Holy</hi> God a <hi>Caterer</hi> for our
+<pb n="59" facs="tcp:93606:30"/>
+               <hi>Luſts,</hi> by making his Bleſſings a <hi>Proviſion for the Fleſh, to fulfil the Luſts thereof?</hi> To imploy the <hi>Riches</hi> he beſtows, to enter<g ref="char:EOLhyphen"/>tain our <hi>Luxury;</hi> the <hi>Honour</hi> he confers, to feed our <hi>Pride;</hi> the <hi>Power</hi> he intruſts us with, to <hi>revenge</hi> ourſelves, or <hi>oppreſs</hi> our <hi>Neighbour;</hi> or the <hi>Health</hi> and <hi>Strength</hi> he preſerves to us, to <hi>ſin</hi> againſt him more <hi>preſumptuouſly?</hi> What blacker <hi>Ingratitude and Injuſtice</hi> can we be Guilty of, then to <hi>fight</hi> a<g ref="char:EOLhyphen"/>gainſt God with his <hi>own Wea<g ref="char:EOLhyphen"/>pons;</hi> to ſerve the <hi>Devil</hi> with the <hi>Bleſſings of Heaven;</hi> and to make thoſe things to be<g ref="char:EOLhyphen"/>come <hi>Evil,</hi> which God ſent for <hi>Good?</hi>
+            </p>
+            <pb n="60" facs="tcp:93606:31"/>
+            <p>If we do thus, we not only <hi>forfeit</hi> God's Bleſſings, but even <hi>neceſſitate</hi> him to take them from us, in his own Vindica<g ref="char:EOLhyphen"/>tion; as he threatned <hi>Iſrael</hi> by the Propher Hoſea, <note place="margin">Hoſ. 2.8, 9.</note> 
+               <hi>She did not know that I gave her Corn and Wine and Oyl, and multiplied her Silver and Gold which they prepa<g ref="char:EOLhyphen"/>turn for</hi> Baal; <hi>therefore will I re<g ref="char:EOLhyphen"/>turn to take away my Corn in the Time thereof, and my Wine in the ſeaſon thereof, and will recover my Wool, and my Flax, given to cover her Nakedneſs.</hi>
+            </p>
+            <p>Whenever we receive a Bleſ<g ref="char:EOLhyphen"/>ſing, we ſhould conſider that he is the <hi>Lord</hi> who gave it, and we are his <hi>Servants</hi> or <hi>Stewards</hi> that receive it; that therefore we cannot <hi>honeſtly</hi> put it to
+<pb n="61" facs="tcp:93606:31"/>any <hi>other Uſe</hi> than our Lord hath <hi>Appointed</hi> or <hi>Allowed;</hi> and muſt expect to be one Day call'd to an <hi>Account</hi> of the Bleſ<g ref="char:EOLhyphen"/>ſings we have <hi>receiv'd;</hi> and if we have not put them to a <hi>good Uſe,</hi> or perverted them to a <hi>bad one;</hi> we ſhall be con<g ref="char:EOLhyphen"/>demn'd as <hi>Wicked</hi> or <hi>Slothful</hi> Servants; <note place="margin">Matth. 25.</note> as our Saviour hath Taught us in his <hi>Parable</hi> of the <hi>Talents.</hi>
+            </p>
+            <p>If then God in his bounty beſtows Riches on us, let us receive them with an <hi>honeſt Reſolution</hi> to <hi>abound</hi> Proportion<g ref="char:EOLhyphen"/>ably in <hi>good Works;</hi> If he ad<g ref="char:EOLhyphen"/>vance us to <hi>Honour,</hi> let us be<g ref="char:EOLhyphen"/>come thereby more <hi>illuſtrious Patterns</hi> of <hi>Piety</hi> to the World; If he confer <hi>Power</hi> and <hi>Authori<g ref="char:EOLhyphen"/>ty</hi>
+               <pb n="62" facs="tcp:93606:32"/>upon us, let us uſe it to <hi>maintain</hi> his <hi>Cauſe, protect</hi> his <hi>Servants,</hi> and <hi>ſuppreſs</hi> the <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> of <hi>his Religion;</hi> If he bleſs us with a <hi>long Life,</hi> and a <hi>convi<g ref="char:EOLhyphen"/>nued Health,</hi> let us be more <hi>Abundant</hi> and <hi>unwearied</hi> in his Service; let us receive every Bleſſing with no other <hi>deſign,</hi> than to imploy it in the <hi>Service</hi> and to the <hi>Honour</hi> of him that ſent it.</p>
+            <p>And as God intends to <hi>en<g ref="char:EOLhyphen"/>gage</hi> us more <hi>cloſely</hi> to himſelf by all the <hi>Obligations</hi> he lays upon us; ſo upon the <hi>receipt</hi> of every <hi>Bleſſing,</hi> eſpecially of ſuch as are moſt <hi>remarkable,</hi> we ſhould ſolemnly and heartily <hi>devote</hi> our Selves to God, as <hi>Jacob</hi> did in that <hi>pious
+<pb n="63" facs="tcp:93606:32"/>Vow. If God will be with me,</hi>
+               <note place="margin">Gen. 28.20, 21.</note> 
+               <hi>and will keep me in the way that I go, and will give me Bread to eat, and Raiment to put on, ſo that I come again to my Father's Houſe in Peace, than ſhall the Lord be my God.</hi>
+            </p>
+            <p n="2">II. Let us paſs on to conſi<g ref="char:EOLhyphen"/>der how we ought to <hi>receive</hi> our <hi>evil Things</hi> from God's <hi>cor<g ref="char:EOLhyphen"/>recting</hi> Hand. The deſign of the <hi>Argument</hi> is not that we ſhould barely <hi>partake</hi> of theſe <hi>evil Things,</hi> for that is not in our <hi>Power</hi> to <hi>prevent;</hi> but that we ſhould <hi>receive</hi> or <hi>accept</hi> them in a <hi>right Manner;</hi> and the <hi>Art</hi> of doing ſo, doth con<g ref="char:EOLhyphen"/>ſiſt chiefly in this threefold Diſpoſition of Mind, <hi>viz.</hi> that
+<pb n="64" facs="tcp:93606:33"/>we receive any <hi>evil Things</hi> from God's correcting Hand, with <hi>Meekneſs</hi> and <hi>Humility;</hi> with <hi>Patience</hi> and <hi>Long-Suffering;</hi> and with a <hi>Cheerful</hi> and <hi>well-pleaſed Mind.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> We ſhould receive any <hi>evil Things</hi> from the Hand of God with <hi>Meekneſs</hi> and <hi>Hu<g ref="char:EOLhyphen"/>mility, i. e.</hi> with a Spirit ſo <hi>lowly</hi> and <hi>Submiſſive,</hi> as to yield <hi>quietly</hi> and <hi>eaſily</hi> to the <hi>Correcti<g ref="char:EOLhyphen"/>ons</hi> God inflicts, without <hi>re<g ref="char:EOLhyphen"/>coiling</hi> in <hi>angry Paſſions,</hi> or <hi>re<g ref="char:EOLhyphen"/>flecting</hi> in <hi>diſcontented Murmurs,</hi> or <hi>returning</hi> any ſort of <hi>Re<g ref="char:EOLhyphen"/>venges</hi> againſt <hi>God,</hi> or the <hi>In<g ref="char:EOLhyphen"/>ſtruments</hi> he uſeth in correct<g ref="char:EOLhyphen"/>ing us.</p>
+            <p>
+               <hi>Meekneſs</hi> and <hi>Humility</hi> are thoſe <hi>paſſive</hi> Graces, which
+<pb n="65" facs="tcp:93606:33"/>render our Spirits <hi>ſoft</hi> and <hi>gen<g ref="char:EOLhyphen"/>tle, yielding</hi> and <hi>impreſſive,</hi> and thereby <hi>ſuſceptive</hi> of Correcti<g ref="char:EOLhyphen"/>ons; but the <hi>ſtroak</hi> that falls on a <hi>hard</hi> Heart, <hi>rebounds</hi> in the Face of him that ſtrikes, and a <hi>proud</hi> Heart will <hi>riſe</hi> up a<g ref="char:EOLhyphen"/>gainſt the <hi>weight</hi> of <hi>Affliction,</hi> like a <hi>Spring</hi> againſt the <hi>Hand</hi> that <hi>depreſſeth</hi> it.</p>
+            <p>The Man whoſe paſſions are not <hi>broken</hi> and <hi>tam'd</hi> by <hi>Diſci<g ref="char:EOLhyphen"/>pline,</hi> muſt be <hi>nail'd</hi> to the <hi>Croſs</hi> which he is to ſuffer, but he will never ſubmit to <hi>take</hi> it up and <hi>bear</hi> it; he will <hi>kick</hi> and <hi>roar</hi> under his Corrections, and of<g ref="char:EOLhyphen"/>ten <hi>accuſe</hi> and <hi>blaſpheme</hi> the Au<g ref="char:EOLhyphen"/>thor of his Troubles. The murmuring <hi>Iſraelites</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen di<g ref="char:EOLhyphen"/>ſtreſs'd in the the Wilderneſs
+<pb n="66" facs="tcp:93606:34"/>
+               <hi>ſpake againſt God,</hi>
+               <note place="margin">Pſal. 78.19</note> ſaith the Pſalmiſt. Such the Prophet deſcribes, <note place="margin">Iſa. 3.21.</note> who <hi>when hungry would fret themſelves, and curſe their King and their God.</hi> Of ſuch we read in the Apocaylipſe, <note place="margin">Rev. 16.9, 11.</note> who <hi>would blaſpheme the God of Heaven, that had Power over their Plagues, becauſe of their pains and ſores.</hi>
+            </p>
+            <p>But the Servants of God who had <hi>other Spirits,</hi> could receive their <hi>evil</hi> Things after <hi>another Manner.</hi> When old <hi>Eli</hi> heard the <hi>heavieſt Doom</hi> from God, he <hi>meekly</hi> entertain d it, ſaying, <hi>It is the Lord,</hi>
+               <note place="margin">1 Sam. 3.18.</note> 
+               <hi>let him do what ſeemeth him good.</hi> When <hi>David</hi> was flying before his rebellious Son, whom God, according to his Denuntiation, had rais'd up
+<pb n="67" facs="tcp:93606:34"/>againſt him, he <hi>humbly</hi> ſubmit<g ref="char:EOLhyphen"/>ted, ſaying, <hi>Behold, here I am,</hi>
+               <note place="margin">2 Sam. 15.26.</note> 
+               <hi>let him do to me as ſeemeth good un<g ref="char:EOLhyphen"/>to him.</hi> The <hi>evil Things</hi> which our bleſſed Saviour receiv'd, and the <hi>Meekneſs</hi> and <hi>Humility</hi> wherewith he receiv'd them, <hi>tranſcend</hi> all other <hi>Patterns.</hi> He endur'd the <hi>contradiction of Sin<g ref="char:EOLhyphen"/>ners,</hi> the <hi>moſt</hi> and <hi>worſt</hi> that e<g ref="char:EOLhyphen"/>ver was, with ſuch <hi>Meekneſs,</hi> that <hi>when he was reviled,</hi>
+               <note place="margin">1 Pet. 2.23</note> 
+               <hi>he revi<g ref="char:EOLhyphen"/>led not again; when he Suffered, he threatned not, but committed himſelf to him that judgeth righteouſly.</hi> When he was to receive from his Fathers hand that <hi>cup</hi> of <hi>Fury,</hi> at the apprehenſion of which the human nature <hi>ſtagger'd;</hi> thô he <hi>deprecated</hi> it, if <hi>poſſible,</hi> to be <hi>avoided;</hi> yet, if <hi>not,</hi> he <hi>humbly</hi>
+               <pb n="68" facs="tcp:93606:35"/>ſubmitted to it, <note place="margin">Mat. 26.39.</note> ſaying, <hi>Never<g ref="char:EOLhyphen"/>theleſs, not as I will, but as thou wilt.</hi>
+            </p>
+            <p>With a like <hi>meekneſs</hi> and <hi>lowlineſs</hi> of Spirit ſhould we be always diſpos'd, to <hi>receive eaſi<g ref="char:EOLhyphen"/>ly,</hi> to <hi>reſent mildly,</hi> to <hi>ſuffer quietly</hi> any <hi>ſtroaks</hi> of Correction from the Hand of God. We ſhould conſider the <hi>Greatneſs</hi> and <hi>Authority</hi> of him that ſtrikes, with whom we <hi>may not,</hi> we <hi>can<g ref="char:EOLhyphen"/>not</hi> contend; and we ſhould re<g ref="char:EOLhyphen"/>flect impartially upon our own <hi>Guilt,</hi> which hath made us juſt<g ref="char:EOLhyphen"/>ly obnoxious to <hi>greater Evils</hi> than this World can produce.</p>
+            <p>We ſhould thus reaſon which our ſelves; Will it become <hi>us</hi> to be <hi>provok'd</hi> by a <hi>Puniſhment,</hi> who have much more <hi>provok'd</hi>
+               <pb n="69" facs="tcp:93606:35"/>God by our <hi>Sin?</hi> Shall we think much of the <hi>ſmart</hi> of his <hi>Rod,</hi> who have ſo often <hi>griev'd</hi> his <hi>holy Spirit?</hi> Dare we in one <hi>Thought</hi> or <hi>Paſſion</hi> to <hi>oppoſe</hi> that <hi>Almighty Juſtice,</hi> which we can<g ref="char:EOLhyphen"/>not <hi>conquer,</hi> but may farther <hi>irritate</hi> by our <hi>rebellious Oppoſi<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p>When therefore we receive any <hi>Croſs</hi> or <hi>Loſs,</hi> or any other ſort of <hi>Affliction</hi> from the Hand of God, we ſhould immedi<g ref="char:EOLhyphen"/>ately look within, give a <hi>charge</hi> to our <hi>Hearts,</hi> ſet a <hi>guard</hi> on our <hi>Paſſions,</hi> and a <hi>watch</hi> before the door of our <hi>Mouth,</hi> that we fall into no <hi>Diſorders</hi> or <hi>In<g ref="char:EOLhyphen"/>decencies;</hi> either, with <hi>David, we ſhould be dumb,</hi>
+               <note place="margin">Pſal. 39.9.</note> 
+               <hi>and not open our Mouths, becauſe it is God's doing:</hi>
+               <pb n="70" facs="tcp:93606:36"/>or, with <hi>Job,</hi> take care that we do not <hi>ſin with our Lips by charg<g ref="char:EOLhyphen"/>ing God fooliſhly.</hi>
+            </p>
+            <p>And let me add, That we ſhould take care to ſuppreſs all <hi>proud</hi> or <hi>angry</hi> Paſſions againſt the <hi>Inſtruments</hi> that God uſeth in <hi>correcting</hi> us, becauſe they will <hi>ultimately</hi> ſtrike at <hi>God him<g ref="char:EOLhyphen"/>ſelf.</hi> When we <hi>curſe our Stars,</hi> or <hi>fret</hi> againſt the <hi>croſs Events</hi> that befall us, we <hi>reflect</hi> upon that <hi>Providence</hi> by which all things are <hi>manag'd;</hi> If we <hi>ma<g ref="char:EOLhyphen"/>lign</hi> and <hi>purſue</hi> the <hi>Enemy</hi> that hath done us a <hi>Miſchief,</hi> we <hi>wound</hi> God thrô <hi>his Side,</hi> who thought fit to <hi>order</hi> and <hi>permit</hi> that we ſhould be <hi>Corrected</hi> by ſuch an <hi>Inſtrument;</hi> However therefore the <hi>Affliction</hi> comes,
+<pb n="71" facs="tcp:93606:36"/>let us humbly and meekly ſubmit, without <hi>contending</hi> or <hi>quarrelling</hi> with God or <hi>Man,</hi> or with the <hi>World</hi> about us.</p>
+            <p>So <hi>David</hi> when moſt malici<g ref="char:EOLhyphen"/>louſly and reproachfully <hi>Curs'd</hi> by <hi>Shimei,</hi> govern'd his Spirit, ſaying, <hi>So let him curſe,</hi>
+               <note place="margin">2 Sam. 16.10, 11.</note> 
+               <hi>becauſe the Lord bath ſaid unto him, Curſe David; let him alone, let him curſe, for the Lord hath bidden him; it may he that the Lord will look upon mine Affliction, and requite me Good for his Curſing me this Day.</hi> With ſuch <hi>meekneſs</hi> could this <hi>humble King</hi> receive ſo <hi>great</hi> a <hi>Provocation,</hi> from one of his <hi>Subjects,</hi> out of <hi>reverence</hi> to <hi>Al<g ref="char:EOLhyphen"/>mighty God</hi> who was the <hi>ſupreme Author</hi> of his Sufferings.</p>
+            <pb n="72" facs="tcp:93606:37"/>
+            <p>
+               <hi>Secondly,</hi> We ſhould receive our <hi>evil</hi> Things from the Hand of God with a <hi>proportionable Pa<g ref="char:EOLhyphen"/>tience</hi> and <hi>long-Suffering, i. e.</hi> with ſuch a <hi>paſſive fortitude</hi> or <hi>firmneſs</hi> of <hi>Spirit,</hi> as will not <hi>ſink</hi> under the <hi>Burden,</hi> or <hi>faint</hi> under the <hi>Anguiſh,</hi> or grow <hi>weary</hi> under the <hi>continuance</hi> of our <hi>Sufferings.</hi>
+            </p>
+            <p>As ſoon as the <hi>Affliction</hi> ſeizeth us, we ſhould immedi<g ref="char:EOLhyphen"/>ately apply our Care to put our ſelves into a <hi>poſture</hi> of Bearing it; we ſhould <hi>recollect</hi> our <hi>Spirits,</hi> and <hi>ſummon</hi> up all our <hi>ſpiritual Forces;</hi> we ſhould <hi>for<g ref="char:EOLhyphen"/>tify</hi> our Minds with the <hi>ſtrong<g ref="char:EOLhyphen"/>eſt Arguments,</hi> and <hi>fix</hi> our Hearts with the <hi>firmeſt Reſoluti<g ref="char:EOLhyphen"/>ons,</hi> and ſo <hi>buckle</hi> to the <hi>Burden</hi>
+               <pb n="73" facs="tcp:93606:37"/>we are to <hi>bear,</hi> and put out our ſtrength in <hi>aſſoiling</hi> the Difficulties which <hi>encounter</hi> us.</p>
+            <p>We ſhould <hi>watch</hi> over our Spirits with a <hi>prudent Jealouſy;</hi> and with a <hi>generous Indignation</hi> ſuppreſs any <hi>baſe Thoughts</hi> or <hi>mutinous Paſſions,</hi> that may <hi>en<g ref="char:EOLhyphen"/>feeble</hi> and <hi>diſhearten</hi> us, or tempt us to ſeek a <hi>Redreſs</hi> by any <hi>un<g ref="char:EOLhyphen"/>lawful</hi> Means.</p>
+            <p>And we muſt beware of <hi>li<g ref="char:EOLhyphen"/>miting</hi> our <hi>Spirits</hi> with any <hi>fond Conceits,</hi> that we can <hi>bear</hi> but <hi>ſo much,</hi> or <hi>ſo long;</hi> and think of providing no <hi>leſs Patience</hi> than what may be equal to the <hi>Evils</hi> we are to bear. If God call us to bear a <hi>heavy Croſs,</hi> we muſt <hi>receive</hi> it with a <hi>proportiona<g ref="char:EOLhyphen"/>ble ſtrength</hi> of <hi>Patience;</hi> if he
+<pb n="74" facs="tcp:93606:38"/>viſit us with a <hi>long Sickneſs,</hi> we muſt <hi>endure</hi> it with a no leſs <hi>long-Suffering?</hi> if he try us with the loſs of a dear <hi>Child</hi> or <hi>Friend</hi> that is never to be retrieved, we muſt provide a <hi>Patience</hi> that will be as <hi>endleſs</hi> and <hi>perpetual.</hi>
+            </p>
+            <p>We ſhould conſider, that God ſends us ſuch Evils, not only to <hi>puniſh</hi> us, but alſo to <hi>exerciſe</hi> and <hi>try us;</hi> which there<g ref="char:EOLhyphen"/>fore we ſhould <hi>receive</hi> as be<g ref="char:EOLhyphen"/>comes good <hi>Souldiers</hi> and <hi>Ser<g ref="char:EOLhyphen"/>vants,</hi> approving our <hi>ability</hi> and <hi>readineſs</hi> to ſuſtain them for his <hi>Honour,</hi> and our own <hi>Commen<g ref="char:EOLhyphen"/>dation.</hi>
+            </p>
+            <p>We ſhould <hi>encourage</hi> and <hi>con<g ref="char:EOLhyphen"/>firm</hi> our <hi>Patience,</hi> by placing before our Eyes the <hi>brave Ex<g ref="char:EOLhyphen"/>amples</hi> of our Fellow-Servants,
+<pb n="75" facs="tcp:93606:38"/>who have approv'd their <hi>Forti<g ref="char:EOLhyphen"/>tude</hi> in as great Trials as thoſe with which we are exercis'd; and by calling to mind thoſe <hi>Divine Promiſes,</hi> which aſſure us infallibly of a <hi>ſufficient Aſſi<g ref="char:EOLhyphen"/>ſtance</hi> here, and a <hi>golrious Crown</hi> in Heaven.</p>
+            <p>We ſhould with our <hi>evil</hi> Things, receive alſo thoſe <hi>Ad<g ref="char:EOLhyphen"/>monitions</hi> and <hi>Exhortations,</hi> thoſe <hi>Directions</hi> and <hi>Encouragements</hi> which God hath given us in his Holy Word, to enable us to bear them, <hi>viz.</hi>
+               <note place="margin">Luke 21.19. Jam. 1.4.</note> That <hi>in Pati<g ref="char:EOLhyphen"/>ence we poſſeſs our Souls;</hi> that <hi>Pa<g ref="char:EOLhyphen"/>tience ſhould have its perfect work,</hi> That, <note place="margin">Prov. 3.11.</note> 
+               <hi>we deſpiſe not the chaſtning of the Lord, neither be weary of his Correction;</hi>
+               <note place="margin">Prov. 24.10.</note> that <hi>if we faint in the day of our Adverſity, our Strength is
+<pb n="76" facs="tcp:93606:39"/>ſmall:</hi> For as it is a ſign of a <hi>weak Body,</hi> to be <hi>diſorder'd</hi> by every <hi>ill Accident;</hi> ſo it is no leſs of a <hi>weak Mind,</hi> to <hi>droop</hi> or <hi>fret</hi> under the <hi>Afflictions</hi> which be<g ref="char:EOLhyphen"/>fal us.</p>
+            <p>This Hiſtory preſents us with great Inſtances both of <hi>Proweſs</hi> in <hi>Job,</hi> and of <hi>Weakneſs</hi> in his <hi>Wife;</hi> for <hi>he</hi> bore up with a <hi>ſtrength</hi> and <hi>length</hi> of <hi>Patience,</hi> that the Devil could not <hi>over<g ref="char:EOLhyphen"/>come,</hi> with all the <hi>Loads</hi> of Mi<g ref="char:EOLhyphen"/>ſery he <hi>heap'd</hi> upon him; but <hi>ſhe,</hi> thô ſhe ſuffer'd leſs, yet being of a weaker and ſhorter Spirit, was ſoon overcome; and to that degree of <hi>Impatience,</hi> that ſhe advis'd her <hi>Husband</hi> to ſeek <hi>Eaſe,</hi> thô in <hi>Death</hi> it ſelf; and by <hi>curſing God,</hi> to provoke
+<pb n="77" facs="tcp:93606:39"/>him to put an end to a miſerable, Life.</p>
+            <p>
+               <hi>Thirdly,</hi> We ſhould, receive any <hi>evil</hi> Things from the Hand of God with a <hi>cheerful</hi> and <hi>well-pleaſed</hi> Mind; ſo as to <hi>approve</hi> of God's dealing with us, to <hi>juſtifie</hi> and <hi>bleſs</hi> him while he is <hi>correcting</hi> us; to <hi>conſent</hi> to, and <hi>accept kindly</hi> his fatherly <hi>Chaſtiſe<g ref="char:EOLhyphen"/>ments;</hi> and to keep up a <hi>hopeful confidence</hi> in his Mercy, amidſt our greateſt Diſtreſſes.</p>
+            <p>The former requiſites were chiefly <hi>Negative,</hi> which only reſtrain'd us from <hi>reſiſting</hi> or <hi>fainting</hi> under God's correcting Hand; but this is <hi>poſitive,</hi> and imports ſomewhat <hi>higher</hi> and <hi>greater,</hi> even a <hi>voluntary</hi> and <hi>cheerful Concurrence</hi> with God in
+<pb n="78" facs="tcp:93606:40" rendition="simple:additions"/>the <hi>Corrections</hi> he infflicts.</p>
+            <p>We ſhould like dutiful Chil<g ref="char:EOLhyphen"/>dren <hi>reverence</hi> the Crowns of our <hi>Father's</hi> Diſpleaſure, ac<g ref="char:EOLhyphen"/>knowledg his juſt <hi>Authority</hi> and our own <hi>Demerit;</hi> and render <hi>Thanks</hi> to him for his <hi>Paternal Care</hi> and <hi>Diſcipline</hi> over us, who in very <hi>faithfulneſs afflicts</hi> us. We ſhould not only, not <hi>reject</hi> and <hi>nauſeate</hi> the <hi>evil</hi> Things which God deſpenſeth, but <hi>receive</hi> them <hi>kindly</hi> and <hi>thankfully</hi> as the moſt <hi>uſeful Phyſick</hi> preſcrib'd by the <hi>wiſeſt</hi> and <hi>beſt Phyſician.</hi>
+            </p>
+            <p>We ſhould be ſo far from <hi>flying out,</hi> or <hi>ſnarling</hi> againſt the <hi>Inſtruments</hi> of our <hi>Correction,</hi> as even to <hi>Kiſs</hi> the <hi>Rod,</hi> to <hi>bleſs them that Curſe us, and to Pray for them that Deſpitefully uſe us.</hi>
+               <pb n="79" facs="tcp:93606:40"/>Our evil Things ſhould not be <hi>forc'd</hi> upon us, but <hi>receiv'd</hi> by us with a willing Hand; we ſhould not only <hi>endure</hi> the Temptation, but <hi>overcome</hi> it; not only <hi>bear</hi> it <hi>patiently,</hi> but <hi>cheerfully rejoyce</hi> under it. Thus St <hi>Paul</hi> prays for the <hi>Coloſſians</hi> that <hi>they might be ſtrengthned with all might according to the glorious Power of God, unto all Patience,</hi>
+               <note place="margin">Col. 1.11.</note> 
+               <hi>and long-Suffering,</hi> and that even <hi>with Joyfulneſs.</hi>
+            </p>
+            <p>And in ſuch a manner have God's Servants been able to re<g ref="char:EOLhyphen"/>ceive the worſt Diſpenſations from him; <note place="margin">Heb. 10.34. 2 Cor. 6.10.</note> 
+               <hi>they took joyfully the ſpoiling of their Goods, they were as grieved, yet always rejoycing.</hi> Thus particularly did <hi>David</hi> receive the many <hi>evil</hi> Things with
+<pb n="80" facs="tcp:93606:41"/>which he was Exercis'd, ſtill Acknowledging that <hi>God was Righteous in all his ways,</hi> that <hi>all his Paths are Mercy and Truth to them that fear God;</hi> that <hi>in very faithfulneſs God afflicted him;</hi> and that <hi>it was Good for him that he was Afflicted.</hi>
+            </p>
+            <p>Thus alſo did <hi>Job worſhip</hi> the God who <hi>permitted</hi> him to be ſo <hi>ſeverely</hi> treated, and <hi>juſtified,</hi> and <hi>bleſs'd</hi> the Author or his Sufferings, ſaying, <hi>The Lord gave, and the Lord hath taken a<g ref="char:EOLhyphen"/>way, bleſſed be the Name of the Lord.</hi>
+            </p>
+            <p>And however <hi>ſtrange</hi> and <hi>difficult</hi> this Rule may ſeem, yet it is not more than the wiſer <hi>Heathens</hi> had learn'd. <hi>There is nothing that befalls me,</hi>
+               <pb n="81" facs="tcp:93606:41"/>ſaith <hi>Seneca,</hi>
+               <note place="margin">Senec. Ep. 96.75.</note> 
+               <hi>that I would receive with a ſad look or a lawring Coun<g ref="char:EOLhyphen"/>tenance: every Thing ſhould pleaſe Men that pleaſeth God. I always, ſaith.</hi> Epictetus, <hi>will that which comes to paſs;</hi>
+               <note place="margin">Epictet. <hi>l.</hi> 4.6. <hi>Ta</hi>
+               </note> 
+               <hi>for I account that better which God willeth, than what I will for my ſelf; I adhere to him as his Servant and Diſciple, I purſue, I deſire, I entirety will with him,</hi> And the <hi>Royal Philoſopher de<g ref="char:EOLhyphen"/>ſcribes</hi> a good Man to be one that <hi>will with all his Heart embrace any Events that Providence diſ<g ref="char:EOLhyphen"/>penſeth to him.</hi>
+               <note place="margin">Antonin. <hi>l.</hi> 3. <hi>ſect.</hi> 4.</note>
+            </p>
+            <p>The <hi>Chriſtian</hi> hath much more reaſon to receive <hi>kindly</hi> and <hi>cheerfully</hi> any Events, which he believes are <hi>diſpens'd</hi> to him by the <hi>wiſeſt</hi> and <hi>kindeſt care</hi> of his <hi>Heavenly Father:</hi> He is aſſu<g ref="char:EOLhyphen"/>red
+<pb n="82" facs="tcp:93606:42"/>from the Word of God, that an Almighty <hi>Spirit</hi> ſhall <hi>help his Infirmities;</hi> and the Di<g ref="char:EOLhyphen"/>vine Bleſſing ſhall <hi>make all things work together for good to him.</hi>
+               <note place="margin">Rom. 8.26.28.</note> He is told, <note place="margin">Job 5.17.</note> that <hi>the Man is happy whom God correcteth,</hi>
+               <note place="margin">Prov. 3.12.</note> and that <hi>whom the Lord loveth he chaſtneth, even as a Father the Son in whom he delighteth.</hi>
+               <note place="margin">Jam. 1.12.</note> That <hi>the Man is bleſ<g ref="char:EOLhyphen"/>ſed that endureth Temptation: for when he is tryed, he ſhall receive the Crown of Life.</hi>
+            </p>
+            <p>How well may this <hi>ſatisfy</hi> and <hi>pleaſe</hi> the <hi>Chriſtian,</hi> that he is <hi>happy</hi> in God's account, when he ſeems moſt <hi>wretched</hi> in the Eye of the World? How <hi>cheer<g ref="char:EOLhyphen"/>fully</hi> may he receive thoſe <hi>evil</hi> Things, which are the <hi>Pledges</hi> and <hi>Tokens</hi> of God's Fatherly
+<pb n="83" facs="tcp:93606:42"/>
+               <hi>Care</hi> and <hi>Favour</hi> towards him; which he knows are ſent not to <hi>hurt,</hi> but <hi>cure</hi> him, to promote his <hi>Spiritual</hi> Life here, and his <hi>Eternal</hi> Life hereafter.</p>
+            <p>Let us therefore <hi>aſpire</hi> to this <hi>excellent frame</hi> of <hi>Spirit,</hi> that we may be able to accept our <hi>evil</hi> Things as well as <hi>good,</hi> with a grateful Satisfaction. That we may be able to <hi>welcome Poverty, Sickneſs,</hi> or <hi>Death</hi> it ſelf, as coming from ſo <hi>good</hi> a <hi>Hand,</hi> and tending to ſo <hi>good</hi> an <hi>End.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Having now at<g ref="char:EOLhyphen"/>tained to a competent under<g ref="char:EOLhyphen"/>ſtanding of thoſe things, which the Argument imports; let us proceed to conſider its <hi>Force</hi> and <hi>Weight,</hi> that we may be
+<pb n="84" facs="tcp:93606:43"/>
+               <hi>convinc'd</hi> and <hi>perſuaded</hi> by it.</p>
+            <p>It was <hi>wiſely</hi> deſign'd by <hi>Job,</hi> to <hi>recommend</hi> to us thoſe <hi>evil</hi> Things to which we are natu<g ref="char:EOLhyphen"/>rally <hi>averſe,</hi> by thoſe <hi>good</hi> Things which attract us with <hi>Delight;</hi> that our <hi>receiving</hi> of the <hi>latter,</hi> may more eaſily in<g ref="char:EOLhyphen"/>duce us to <hi>accept</hi> the <hi>former.</hi> The <hi>Conſequence</hi> of one to the other may be ſufficiently <hi>evinc'd</hi> and <hi>confirm'd</hi> by ſeveral Rea<g ref="char:EOLhyphen"/>ſons: of which I ſhall mention theſe Four:</p>
+            <p n="1">1. That <hi>Supreme Authority</hi> of God over us, which is plainly manifeſted by the <hi>good</hi> Things we receive from him, ſhould oblige us to receive dutifully a<g ref="char:EOLhyphen"/>ny <hi>evil</hi> Things, which he thinks fit to diſpenſe to us.</p>
+            <pb n="85" facs="tcp:93606:43"/>
+            <p>What other account can we give of the care of God's conti<g ref="char:EOLhyphen"/>nual <hi>Providence</hi> over us, but that <hi>He</hi> is the <hi>Parent</hi> of thoſe Beings he ſo indulgently <hi>cheriſheth,</hi> and the <hi>Maſter</hi> of that <hi>Family,</hi> for the Members of which he ſo <hi>bountifully provides;</hi> and that con<g ref="char:EOLhyphen"/>ſequently <hi>we</hi> are <hi>his Children</hi> and <hi>Servants,</hi> by whom we were <hi>made</hi> and are <hi>maintained?</hi>
+               <note place="margin">Pſal. 100.3</note> 
+               <hi>Know ye,</hi> ſaith the Pſalmiſt, <hi>that the Lord he is God,</hi> becauſe <hi>he made us, and not we our ſelves;</hi> and <hi>we are his People,</hi> becauſe <hi>the Sheep of his Paſture.</hi>
+            </p>
+            <p>This <hi>Relation</hi> we ſtand in to God gives him a <hi>ſupreme</hi> and <hi>abſolute Authority</hi> over us, where<g ref="char:EOLhyphen"/>by we are oblig'd to <hi>receive</hi> whatever he <hi>diſpenſeth</hi> to us,
+<pb n="86" facs="tcp:93606:44"/>and to ſubmit our ſelves not only to be <hi>fed</hi> and <hi>maintain'd,</hi> but alſo to be <hi>diſciplin'd</hi> and <hi>em<g ref="char:EOLhyphen"/>ploy'd</hi> by him.</p>
+            <p>As therefore the <hi>Bleſſings</hi> we enjoy, are <hi>Proofs</hi> of God's <hi>Au<g ref="char:EOLhyphen"/>thority,</hi> and <hi>Badges</hi> of our <hi>De<g ref="char:EOLhyphen"/>pendance</hi> on him; ſo they ſhould be forcible Arguments, for ſubmitting us readily to his <hi>Diſ<g ref="char:EOLhyphen"/>cipline</hi> and <hi>Diſpoſal.</hi>
+            </p>
+            <p>We expect no leſs from <hi>our own</hi> Children and Servants, than that they acknowledg our <hi>Au<g ref="char:EOLhyphen"/>thority,</hi> as well in <hi>correcting</hi> as <hi>maintaining</hi> them; and <hi>indeed</hi> we ſeem to <hi>collude</hi> with God, or <hi>over-reach</hi> him, when we ſhare in his <hi>Bleſſings</hi> as <hi>part</hi> of his <hi>Fa<g ref="char:EOLhyphen"/>mily,</hi> and yet <hi>deny</hi> his <hi>Authority,</hi> when he thinks fit to correct us;
+<pb n="87" facs="tcp:93606:44"/>for in Equity, if God hath <hi>no right</hi> to ſend us <hi>evil</hi> Things, we have no <hi>right</hi> to his good Things; and if we receive <hi>theſe,</hi> we oblige our ſelves thereby to accept the <hi>other</hi> alſo.</p>
+            <p>With this <hi>Argument</hi> from <hi>Authority,</hi> the Servants of God have uſually contain'd and <hi>qui<g ref="char:EOLhyphen"/>eted</hi> their Minds, under the ſharpeſt <hi>Afflictions.</hi>
+               <note place="margin">1 Sam. 3.18.</note> 
+               <hi>It is the Lord,</hi> ſaith old <hi>Eli, let him do what ſeemeth him good.</hi>
+               <note place="margin">Pſal. 39.9.</note> 
+               <hi>I was dumb,</hi> ſaith <hi>David, and opened not my Mouth, becauſe thou didſt it. Job bleſſed</hi> the <hi>Name</hi> of that <hi>Lord,</hi> who had not more right to <hi>give</hi> than to <hi>take away;</hi> and contented himſelf with this Conſideration, which the Septuagint have added to the
+<pb n="88" facs="tcp:93606:45"/>Text, <note place="margin">Job 1.21.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>as it ſeemed good to the Lord, ſo it came to paſs.</hi>
+            </p>
+            <p n="2">2. If we receive all our <hi>good</hi> Things from God, we are ob<g ref="char:EOLhyphen"/>lig'd in <hi>Gratitude</hi> to him, to re<g ref="char:EOLhyphen"/>ceive any <hi>evil</hi> Things he may require us to ſuffer for his ſake.</p>
+            <p>If our <hi>Gratitude</hi> bear any pro<g ref="char:EOLhyphen"/>portion to the <hi>Bounty</hi> of God, we ſhall be as ready to <hi>receive</hi> any <hi>evil</hi> Things from him, as he is to <hi>beſtow good</hi> Things upon us; and be very willing to ac<g ref="char:EOLhyphen"/>compliſh <hi>his Will,</hi> and <hi>glorify his Name</hi> by our <hi>Suffering,</hi> who at firſt <hi>made</hi> and doth ſtill <hi>main<g ref="char:EOLhyphen"/>tain</hi> us for his <hi>Honour</hi> and <hi>Ser<g ref="char:EOLhyphen"/>vice.</hi>
+            </p>
+            <p>He is a very <hi>ill-natur'd Ser<g ref="char:EOLhyphen"/>vant,</hi> who can endure no <hi>Ha<g ref="char:EOLhyphen"/>zards</hi>
+               <pb n="89" facs="tcp:93606:45"/>or <hi>Hardſhips</hi> for a <hi>good Ma<g ref="char:EOLhyphen"/>ſter;</hi> he is not worthy the name of a <hi>Souldier,</hi> who will only receive his <hi>Pay,</hi> but <hi>declines</hi> all the <hi>Difficulties</hi> and <hi>Dangers</hi> of his <hi>Warfare.</hi> We ſhould think him a very <hi>diſingenuous Friend,</hi> who, after many <hi>conſiderable Kindneſſes</hi> done for him, <hi>refuſeth</hi> to <hi>bear</hi> with us in any thing that is <hi>croſs</hi> to his <hi>Humour,</hi> or to <hi>undergo</hi> any <hi>trouble</hi> in doing for us ſome <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi> office of <hi>Friendſhip.</hi> How then can we deal ſo <hi>perverſly</hi> and <hi>frowardly</hi> with God, as to receive daily ſo many <hi>good</hi> Things from him, and yet to murmur againſt him and his <hi>Providence,</hi> upon every <hi>croſs</hi> E<g ref="char:EOLhyphen"/>vent he diſpenſeth to us!</p>
+            <pb n="90" facs="tcp:93606:46" rendition="simple:additions"/>
+            <p>And our <hi>Ingratitude</hi> herein is ſo much the <hi>worſe,</hi> as the <hi>good</hi> Things he beſtows on us, are always <hi>more</hi> and <hi>greater</hi> than the <hi>evil</hi> Things he inflicts; for there is no Man <hi>wants</hi> ſo many Bleſſings are he <hi>enjoys,</hi> or can in this World meet with a <hi>Croſs</hi> that is not <hi>out-weigh'd</hi> by ſome other <hi>Bleſſing</hi> he poſſeſſeth; at beſt <hi>Life</hi> is more conſiderable than any <hi>Temporal Bleſſing</hi> we <hi>want,</hi> or any Calamity we ſuf<g ref="char:EOLhyphen"/>fer, for otherwiſe it could not be <hi>ſupported.</hi> Why then <hi>ſhould a living Man complain?</hi>
+               <note place="margin">Lam. 3.39.</note> ſaith the Prophet. How baſely <hi>ingrate<g ref="char:EOLhyphen"/>ful</hi> are we, if we cannot <hi>ſuffer</hi> a <hi>little</hi> from him, from whom we have <hi>receiv'd ſo much?</hi>
+            </p>
+            <pb n="91" facs="tcp:93606:46"/>
+            <p n="3">3. If we receive <hi>good</hi> Things from God which we no way <hi>Deſerve,</hi> it is very reaſonable that we ſhould receive <hi>evil</hi> Things which are <hi>juſtly Due</hi> to us.</p>
+            <p>The <hi>bleſſings</hi> we enjoy are the <hi>free-gift</hi> of God which we can never <hi>merit</hi> or <hi>exact</hi> from him; but the <hi>Puniſhments</hi> we meet with, are the <hi>Fruit</hi> of our <hi>own Doings,</hi> or the juſt <hi>wages</hi> of our <hi>Sin.</hi> How <hi>abſur'd</hi> then muſt it be for us to expect on<g ref="char:EOLhyphen"/>ly <hi>good</hi> Things of which we are moſt <hi>unworthy;</hi> and to <hi>refuſe</hi> or <hi>quarrel</hi> at thoſe <hi>evil</hi> Things, which we have juſtly <hi>deſerv'd</hi> and procur'd to our Selves.</p>
+            <p>Shall a <hi>Profligat Criminal</hi> who hath forfeited his Life, expect
+<pb n="92" facs="tcp:93606:47"/>
+               <hi>only</hi> the <hi>Careſſes</hi> of his Prince's <hi>Favour,</hi> and think much of <hi>in<g ref="char:EOLhyphen"/>during</hi> the <hi>confinement</hi> and <hi>hard<g ref="char:EOLhyphen"/>ſhips</hi> of a <hi>Priſon?</hi> If God <hi>denied</hi> us all his <hi>Bleſſings;</hi> and <hi>allotted</hi> only <hi>evil</hi> Things to our ſhare, we could not charge him with any <hi>Injuſtice,</hi> or have any <hi>juſt exception</hi> againſt his <hi>Providence;</hi> but when our merciful God diſpenſeth to us a <hi>mixture</hi> of both, it would be a moſt <hi>un<g ref="char:EOLhyphen"/>reaſonable</hi> piece of <hi>Fondneſs,</hi> to <hi>accept</hi> only the <hi>good</hi> Things which he <hi>frankly gives,</hi> and to <hi>refuſe</hi> the Puniſhments which he <hi>juſtly inflicts;</hi> or to quarrel at him for not giving us thoſe <hi>good Things</hi> which he <hi>owes</hi> us not, or for ſending us thoſe <hi>evil</hi> Things which are of right
+<pb n="93" facs="tcp:93606:47"/>
+               <hi>due to</hi> us. Thus the Prophet <hi>Jeremiah</hi> expoſtulates in his La<g ref="char:EOLhyphen"/>mentation; <hi>Why doth a living Man complain,</hi>
+               <note place="margin">Lam. 3.39.</note> 
+               <hi>a Man for the Pu<g ref="char:EOLhyphen"/>niſhment of his Sin?</hi> He hath <hi>more</hi> than his <hi>due</hi> by being a <hi>living Man,</hi> and not <hi>more</hi> in bearing the <hi>Puniſhment</hi> of his <hi>Sin.</hi>
+            </p>
+            <p n="4">4. If our <hi>evil</hi> Things come out of the ſame <hi>kind Hand</hi> which diſpenſeth our <hi>good</hi> Things, we have reaſon to think <hi>well</hi> of them, and to <hi>re<g ref="char:EOLhyphen"/>ceive</hi> them with a <hi>contented cheer<g ref="char:EOLhyphen"/>ful</hi> Mind.</p>
+            <p>That our God is very <hi>kind</hi> and <hi>merciful,</hi> appears from the many <hi>good</hi> Things we daily re<g ref="char:EOLhyphen"/>ceive from him; and if he al<g ref="char:EOLhyphen"/>ſo <hi>afflicts</hi> us, yet we may re<g ref="char:EOLhyphen"/>joyce in this, that we are in <hi>good
+<pb n="94" facs="tcp:93606:48"/>Hands;</hi> that we are under the Diſcipline of one that doth not <hi>afflict willingly,</hi> or take pleaſure in <hi>grieving</hi> the children of Men; that he will not <hi>correct</hi> us <hi>immo<g ref="char:EOLhyphen"/>derately</hi> but in <hi>Judgment;</hi> that his <hi>merciful Hand</hi> will <hi>ſupport</hi> us, while the <hi>Hand</hi> of his <hi>Juſtice chaſtiſeth</hi> us; and that he ſends us <hi>evil</hi> Things, only to make us more <hi>capable</hi> of receiving the <hi>good</hi> Things he hath prepared for us.</p>
+            <p>If then all the <hi>Bleſſings</hi> we have receiv'd, can be but enough to <hi>aſſure</hi> us of the <hi>Good<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Faithfulneſs</hi> of God, we ſhall never <hi>murmur</hi> or <hi>deſpond,</hi> but rather <hi>hope</hi> and <hi>rejoyce</hi> in his Mercy, under the worſt Diſ<g ref="char:EOLhyphen"/>penſations.</p>
+            <pb n="95" facs="tcp:93606:48"/>
+            <p>What is <hi>good</hi> ſhould never be unwelcome to us, and nothing but what is <hi>good</hi> can come from our <hi>good God;</hi> for thô we diſtinguiſh and call things <hi>Good</hi> or <hi>Evil,</hi> yet they are all <hi>good</hi> as they <hi>come</hi> from <hi>him,</hi> and may be <hi>improv'd</hi> by us. God who is not led by <hi>Paſſion,</hi> ſaith, St. <hi>Chryſoſtome,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Chryſoſt. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Tunc maxime eſt opti<g ref="char:EOLhyphen"/>mus cum tibi non bonus. <hi>Tirtul</hi> in <hi>Marc.</hi> 2.2.</note> 
+               <hi>whether he bleſs or correct, he is equally Good;</hi> Yea he is then <hi>beſt,</hi> ſaith Turtullian, <hi>when we think him beſt. Good.</hi> Whatever there<g ref="char:EOLhyphen"/>fore is diſpens'd to us by the Hand of God, we ought to <hi>ap<g ref="char:EOLhyphen"/>prove</hi> and <hi>embrace</hi> as <hi>Good;</hi> as <hi>Hezekiah</hi> did that heavy Doom brought by the Prophet, ſay<g ref="char:EOLhyphen"/>ing, <hi>Good is the Word of the Lord which thou haſt ſpoken.</hi>
+               <note place="margin">2 Kings 20.19.</note>
+            </p>
+            <pb n="96" facs="tcp:93606:49"/>
+            <p>
+               <hi>Thirdly,</hi> I come in the laſt place to make ſome uſeful <hi>Ap<g ref="char:EOLhyphen"/>plication</hi> of the precedent Diſ<g ref="char:EOLhyphen"/>courſe, which may ſerve to <hi>ex<g ref="char:EOLhyphen"/>hort</hi> us to yield to this reaſonable <hi>Argument</hi> of the <hi>Text;</hi> by <hi>reſign<g ref="char:EOLhyphen"/>ing</hi> and <hi>ſubmitting</hi> our ſelves en<g ref="char:EOLhyphen"/>tirely to the conduct of Divine <hi>Providence,</hi> for whatever <hi>good</hi> or <hi>evil</hi> Things ſhall fall to <hi>our Lot.</hi>
+            </p>
+            <p>That we may more <hi>eaſily</hi> learn this <hi>general</hi> Duty, we may conveniently divide it into theſe two <hi>particular</hi> Leſſons.</p>
+            <p n="1">1. That by an <hi>entire reſig<g ref="char:EOLhyphen"/>nation</hi> of our ſelves to God's diſpoſal, we <hi>allow</hi> him to <hi>chooſe</hi> and <hi>order</hi> for us the <hi>Good</hi> or <hi>E<g ref="char:EOLhyphen"/>vil</hi> which ſhall befal us; he being the <hi>Lord</hi> who hath the <hi>right</hi> of <hi>diſpoſing</hi> both.</p>
+            <pb n="97" facs="tcp:93606:49"/>
+            <p n="2">2. That we <hi>contentedly</hi> and <hi>cheerfully acquieſce</hi> in his <hi>choice;</hi> when he hath <hi>made,</hi> and de<g ref="char:EOLhyphen"/>clar'd it to us in the courſe of his <hi>Providence,</hi> receiving either <hi>Good</hi> or <hi>Evil</hi> from his <hi>Hand,</hi> as he hath thought moſt fit for us.</p>
+            <p n="1">1. Let us be exhorted to <hi>reſign</hi> up our ſelves entirely to God's diſpoſal, to <hi>chooſe</hi> and <hi>allot</hi> for us whatever <hi>good</hi> or <hi>e<g ref="char:EOLhyphen"/>vil</hi> Things, he ſhall think fit<g ref="char:EOLhyphen"/>teſt for us.</p>
+            <p>Almighty God hath an un<g ref="char:EOLhyphen"/>queſtionable <hi>right</hi> to diſpoſe of us, and he will certainly make <hi>uſe</hi> of it whether we allow it or not; but it will beſt <hi>become us,</hi> and be moſt <hi>pleaſing</hi> to God, that we ſhould by our <hi>own Act deliberately</hi> and <hi>voluntarily reſign</hi>
+               <pb n="98" facs="tcp:93606:50"/>up our ſelves to his <hi>Conduct,</hi> and <hi>conſtute</hi> him the <hi>diſpoſer</hi> of us, and of all our <hi>Concernments,</hi> whereby we may make a great <hi>vertue</hi> of <hi>Neceſſity, diſcharge</hi> a neceſſary <hi>Duty,</hi> and give much <hi>Honour</hi> to God.</p>
+            <p>This ſelf-<hi>Reſignation</hi> imports many <hi>pious Acts</hi> of the Mind, our Acknowledgment and <hi>ap<g ref="char:EOLhyphen"/>probation</hi> of God's <hi>right</hi> and <hi>Au<g ref="char:EOLhyphen"/>thority,</hi> of his <hi>Wiſdom</hi> and <hi>Faith<g ref="char:EOLhyphen"/>fulneſs</hi> in <hi>diſpoſing</hi> of us; our <hi>choice</hi> of him for our <hi>Guide;</hi> our <hi>conſent</hi> to his <hi>Conduct;</hi> yea our Hearty <hi>deſire</hi> and humble <hi>Prayer</hi> to him, that he would condeſ<g ref="char:EOLhyphen"/>cend to <hi>manage</hi> and <hi>order</hi> our <hi>Condition</hi> for us; and it will by conſequence reſtrain us from <hi>intermedling</hi> in that <hi>Affair</hi> we
+<pb n="99" facs="tcp:93606:50"/>have <hi>entirely committed</hi> to his <hi>Ma<g ref="char:EOLhyphen"/>nagement,</hi> by any anxious Cares, or <hi>eager Deſires,</hi> or <hi>vain Curioſi<g ref="char:EOLhyphen"/>ty</hi> of our own about it; ſo that we ſhall imploy our <hi>care</hi> only in doing what God hath made our <hi>Duty,</hi> leaving it wholly to the great <hi>Maſter</hi> of that <hi>Family</hi> to which we belong, to pro<g ref="char:EOLhyphen"/>vide for us and <hi>diſpoſe</hi> of us, as he ſhall think fit.</p>
+            <p>This we are taught in thoſe <hi>Scriptures</hi> which require us to <hi>commit our ſelves,</hi>
+               <note place="margin">Pſal. 31.5.</note> and <hi>our ways unto the Lord;</hi>
+               <note place="margin">Pſal. 37.5. Pſal. 55.22. 1 Pet. 5.7. Pſal. 37.3, 5, 7. Philip. 4.6.</note> to <hi>caſt our Burdens and our Cares upon him,</hi> to <hi>truſt in him,</hi> to <hi>reſt on him;</hi> to <hi>be care<g ref="char:EOLhyphen"/>ful for nothing, but in all things by Prayer and Supplication with Thankſgivings to make our requeſts known to God.</hi>
+            </p>
+            <pb n="100" facs="tcp:93606:51"/>
+            <p>Thus <hi>David</hi> when he fled out of <hi>Jeruſalem,</hi> reſign'd up himſelf moſt ſubmiſively to God's diſpoſal, ſaying to <hi>Za<g ref="char:EOLhyphen"/>dok, Carry back the Ark of God in<g ref="char:EOLhyphen"/>to the City:</hi>
+               <note place="margin">2 Sam. 15, 25, 26.</note> 
+               <hi>if I ſhall find favour in the Eye, of the Lord, he will bring me again, and ſhow me both it and his Habitation; but if he thus ſay, I have no delight in thee, behold, here am I, let him do to me as ſeemeth Good to him.</hi> And our Bleſſed Saviour, in a more extraordi<g ref="char:EOLhyphen"/>nary Caſe, <hi>ſuppreſs'd</hi> his own <hi>deſires,</hi> and <hi>ſubmitted</hi> himſelf <hi>entirely</hi> to his Fathers <hi>diſpoſal,</hi> ſaying, <note place="margin">Mat. 26.39.</note> 
+               <hi>Nevertheleſs, not as I will, but as thou wilt.</hi>
+            </p>
+            <p>Yea, we find this Duty excel<g ref="char:EOLhyphen"/>lently taught by a <hi>Heathen</hi> who thus adviſeth; <hi>Dare to look
+<pb n="101" facs="tcp:93606:51"/>up to God and beſpeak him after this Manner:</hi>
+               <note place="margin">Epicter. <hi>l.</hi> 2. <hi>c.</hi> 16.</note> 
+               <hi>Uſe me for the future as thou pleaſeſt, for I am of the ſame Mind with thee, I refuſe no<g ref="char:EOLhyphen"/>thing that ſeems Good to thee; cloath me as thou wilt, appoint me what Station thou thinkeſt fit, whether Publick or Private; to abide at home, or go into Banniſhment; to be Poor or Rich, I will not only comply my ſelf, but will juſtifie thy Providence by Apologies to the World.</hi>
+            </p>
+            <p>Into ſuch a <hi>ſubmiſſive Frame,</hi> ſhould we bring our Spirits, that we may leave off to <hi>carve</hi> and <hi>chooſe</hi> for our ſelves, and be well <hi>content</hi> to be at God's <hi>allowance</hi> and <hi>diſpoſal,</hi> and al<g ref="char:EOLhyphen"/>ways ready to <hi>receive</hi> from his <hi>Hand</hi> whatever <hi>good</hi> Things he thinks to be <hi>Food conventient</hi>
+               <pb n="102" facs="tcp:93606:52"/>for <hi>us,</hi> or whatever <hi>evil</hi> Things he thinks to be <hi>needful Phyſick</hi> for us.</p>
+            <p n="2">2. Let us be exhorted alſo to <hi>acquieſce contentedly</hi> and <hi>cheer<g ref="char:EOLhyphen"/>fully</hi> in whatever <hi>Choice</hi> God makes for us, when he declares it to us in the courſe of his Pro<g ref="char:EOLhyphen"/>vidence, whether it be of <hi>good</hi> or <hi>evil</hi> Things, or of whatever <hi>kind</hi> or <hi>degree</hi> they are.</p>
+            <p>We ſhould ſhamefully <hi>af<g ref="char:EOLhyphen"/>front</hi> God and <hi>contradict</hi> our ſelves, if after we have ſo<g ref="char:EOLhyphen"/>lemnly <hi>choſen,</hi> and <hi>conſented</hi> to his <hi>Conduct,</hi> and by our <hi>Prayers</hi> beſought him to take the <hi>care</hi> and <hi>charge</hi> of us, we ſhould al<g ref="char:EOLhyphen"/>low our ſelves to <hi>cenſure</hi> his <hi>Providence,</hi> to <hi>diſlike</hi> his <hi>Manage<g ref="char:EOLhyphen"/>ment,</hi> and <hi>refuſe</hi> our <hi>Lot;</hi> where<g ref="char:EOLhyphen"/>by
+<pb n="103" facs="tcp:93606:52"/>we reflect on God's <hi>Wiſdom</hi> or <hi>Goodneſs,</hi> or <hi>Power</hi> or <hi>Faith<g ref="char:EOLhyphen"/>fulneſs,</hi> as if he <hi>could not,</hi> or <hi>would not</hi> do ſo <hi>well</hi> for us as we <hi>expected;</hi> or elſe diſcover our ſelves to be very <hi>weak</hi> and <hi>vain, froward</hi> and <hi>inconſtant,</hi> like <hi>Chil<g ref="char:EOLhyphen"/>dren,</hi> never long of a <hi>Mind, difficult</hi> to be <hi>pleas'd,</hi> whom God himſelf is not able to <hi>ſa<g ref="char:EOLhyphen"/>tisfy.</hi>
+            </p>
+            <p>We juſtly condemn the <hi>per<g ref="char:EOLhyphen"/>verſe Spirit</hi> of the <hi>Iſraelites,</hi> who after they had put themſelves under God's <hi>Conduct,</hi> and pro<g ref="char:EOLhyphen"/>mis'd to be very <hi>obſequious</hi> to it in their paſſage from <hi>Egypt</hi> to <hi>Canaan,</hi> yet <hi>murmur'd</hi> againſt him upon the <hi>ſlighteſt Occaſions; diſlik'd</hi> his <hi>Proviſion,</hi> thô he <hi>cater'd</hi> for them by <hi>Miracles,</hi> and
+<pb n="104" facs="tcp:93606:53"/>
+               <hi>choſe</hi> rather to <hi>return</hi> back to their Houſe of <hi>Bondage,</hi> than to continue under the <hi>care</hi> and <hi>ſafe-guard</hi> of his <hi>Providence.</hi> And St. <hi>Jude,</hi>
+               <note place="margin">Jude 16.</note> reproves ſuch in his Time who were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Murmurers,</hi> who <hi>com<g ref="char:EOLhyphen"/>plain'd</hi> of the Lot which <hi>Provi<g ref="char:EOLhyphen"/>dence</hi> had drawn for them.</p>
+            <p>We ſhould be very cautious of dealing <hi>humourouſly</hi> or <hi>fro<g ref="char:EOLhyphen"/>wardly</hi> with the great God of Heaven, that we do not <hi>tempt</hi> or <hi>limit</hi> him, <hi>provoke</hi> and <hi>grieve</hi> him, as he ſometimes com<g ref="char:EOLhyphen"/>plain'd of the People of <hi>Iſrael,</hi> leſt he ſhould <hi>caſt</hi> us out of his <hi>Preſence,</hi> and <hi>refuſe</hi> to take any farther <hi>care</hi> of us; for how <hi>helpleſs</hi> and <hi>forlorn,</hi> how <hi>wretch<g ref="char:EOLhyphen"/>ed</hi> and <hi>miſerable</hi> muſt we needs
+<pb n="105" facs="tcp:93606:53"/>be, if God ſhould <hi>abandon</hi> us to our own <hi>Impotence</hi> and <hi>Folly.</hi>
+            </p>
+            <p>When therefore our wiſe and good God <hi>declares</hi> to us in the courſe of his Providence, that he hath <hi>appointed</hi> ſuch a <hi>ſtate</hi> or <hi>con<g ref="char:EOLhyphen"/>dition</hi> of Life for us in general, or hath <hi>allotted</hi> ſuch <hi>good</hi> or <hi>evil</hi> Events to befal us in particular; we ſhould forthwith, without <hi>diſputing</hi> or <hi>contending, accommo<g ref="char:EOLhyphen"/>date</hi> and <hi>conform</hi> our <hi>Will</hi> to his, <hi>accept thankfully</hi> the <hi>Bleſſings</hi> he ſends, or <hi>bear patiently</hi> the <hi>Corre<g ref="char:EOLhyphen"/>ctions</hi> he inflicts, being ſatisfied with this, that it is God's <hi>ap<g ref="char:EOLhyphen"/>pointment,</hi> who hath <hi>right</hi> to <hi>diſ<g ref="char:EOLhyphen"/>poſe</hi> of us, and who <hi>knows</hi> bet<g ref="char:EOLhyphen"/>ter than we, what things are <hi>fit</hi> for us; that we have often in our Prayers <hi>reſign'd</hi> up our ſelves
+<pb n="106" facs="tcp:93606:54"/>to his <hi>diſpoſal;</hi> and that it is a high <hi>Priviledg</hi> that he will vouchſafe to take care of us; that his <hi>Promiſe</hi> is a ſufficient <hi>Se<g ref="char:EOLhyphen"/>curity,</hi> on which we may <hi>rely,</hi> even when we cannot compre<g ref="char:EOLhyphen"/>hend the <hi>deſign</hi> or <hi>reaſon</hi> of his <hi>dealing</hi> with us.</p>
+            <p>In ſuch a manner did pious <hi>David conform</hi> himſelf to the <hi>Will</hi> of God, when <hi>declar'd</hi> to him in the courſe of his <hi>Provi<g ref="char:EOLhyphen"/>dence.</hi> When his <hi>Child</hi> was <hi>ſick</hi> he <hi>beſought the Lord for it,</hi> and <hi>faſted, and lay all night upon the Earth;</hi> but when the <hi>Child</hi> was <hi>dead,</hi> he <hi>aroſe, waſhed, anointed, changed his Apparel, and came into the houſe of the Lord and worſhiped.</hi> And he gives this accountn of his Behaviour, <note place="margin">2 Sam. 12.22.23.</note> 
+               <hi>While the Child was yet
+<pb n="107" facs="tcp:93606:54"/>alive, I faſted and wept: for I ſaid, Who can tell whether God will be gracious unto me, that the Child may live? But now he is dead, wherefore ſhould I faſt? can I bring him back again? I ſhall go to him, but he ſhall not return to me.</hi> While the <hi>Child</hi> was ſick he <hi>recommended</hi> him to God by Prayer, and when God had <hi>diſpos'd</hi> of him as he thought fit, <hi>David acquieſc'd.</hi>
+            </p>
+            <p>
+               <hi>Abraham</hi> the <hi>Father</hi> of the <hi>Faithful,</hi> was no leſs <hi>obſequious</hi> to the <hi>Will</hi> of God, who without <hi>diſputing</hi> the divine <hi>Command,</hi> left his <hi>Native Country,</hi> and follow'd <hi>Providence,</hi> thô he knew not <hi>whither;</hi> and offer'd up his <hi>only Son</hi> a <hi>Sacrifice</hi> to God, as ſoon as he was <hi>demanded,</hi> without any <hi>diſcontented Murmurs.</hi>
+            </p>
+            <pb n="108" facs="tcp:93606:55"/>
+            <p>And our Bleſſed Saviour when diſſwaded by St. <hi>Peter</hi> from <hi>ſubmitting</hi> to the Suffer<g ref="char:EOLhyphen"/>ings which God had <hi>appointed</hi> for him, he <hi>rejected</hi> the fond advice with <hi>Indignation,</hi> ſaying, <hi>Get thee behind me Satan,</hi>
+               <note place="margin">Mat. 16.23.</note> 
+               <hi>thou art an offence to me, for thou ſavour<g ref="char:EOLhyphen"/>eſt not the things of God, but thoſe that be of Men.</hi> And when the ſame Apoſtle would have <hi>reſcued</hi> him by <hi>violence</hi> from thoſe <hi>Sufferings,</hi> our Lord for<g ref="char:EOLhyphen"/>bad him, ſaying, <hi>The cup which my Father hath given me,</hi>
+               <note place="margin">John 18.11.</note> 
+               <hi>ſhall I not drink it?</hi>
+            </p>
+            <p>To all which I cannot but add thoſe excellent Sayings of an honeſt Heathen. <hi>In all Af<g ref="char:EOLhyphen"/>fairs this ſhould be our wiſh,</hi>
+               <note place="margin">Epictet. <hi>c.</hi> 77, 78, 79.</note> 
+               <hi>Lead me O God, according to thy Decree, whi<g ref="char:EOLhyphen"/>ther
+<pb n="109" facs="tcp:93606:55"/>thou wilt, and I will follow cheerfully; and yet if I ſhould be ſo wicked as to refuſe to follow, yet fol<g ref="char:EOLhyphen"/>low I muſt of neceſſity. He that can accommodate himſelf to the neceſſity of Events is a wiſe Man, and under<g ref="char:EOLhyphen"/>ſtands the things of God. If then God will have it ſo, ſo be it.</hi>
+            </p>
+            <p>Such then is the <hi>Duty</hi> we are <hi>exhorted</hi> to that we would <hi>chooſe no more</hi> than this only, that God would <hi>chooſe</hi> all things for us; and that we <hi>approve</hi> and <hi>accept</hi> of whatever <hi>choice</hi> he makes for us.</p>
+            <p>To inforce this <hi>Exhortation,</hi> I will ſubjoin a few Conſiderati<g ref="char:EOLhyphen"/>ons, which may incline our Hearts to ſuch a <hi>ſubmiſſive com<g ref="char:EOLhyphen"/>pliance,</hi> with the conduct of Di<g ref="char:EOLhyphen"/>vine Providence.</p>
+            <p n="1">1. It is our <hi>neceſſary Duty</hi> to do
+<pb n="110" facs="tcp:93606:56"/>ſo, and the contrary practice will involve us in a great deal of <hi>Guilt.</hi>
+            </p>
+            <p>We may beconvinced of this, not only from thoſe expreſs <hi>Precepts</hi> which frequently occur in the Holy <hi>Scriptures,</hi> but alſo from a <hi>ſelf-evident Law</hi> inſcrib'd upon our <hi>Natures.</hi> For inaſmuch as we are <hi>Creatures,</hi> we are by Nature <hi>dependant</hi> both on the <hi>will</hi> &amp; <hi>power</hi> of <hi>God</hi> from whom we receiv'd our Beings; and are conſequently oblig'd to render him both <hi>active</hi> and <hi>paſſive</hi> Obe<g ref="char:EOLhyphen"/>dience, and do become as <hi>guilty</hi> in <hi>rebelling</hi> againſt his <hi>will,</hi> by not <hi>ſuffering</hi> what he <hi>inflicts,</hi> as by not <hi>doing</hi> what he <hi>commands.</hi>
+            </p>
+            <p>If we attempt to <hi>diſpoſe</hi> of our <hi>ſelves,</hi> or of the <hi>Circumſtances</hi> of
+<pb n="111" facs="tcp:93606:56"/>our <hi>Condition,</hi> we <hi>uſurp</hi> upon God's <hi>Prerogative,</hi> we <hi>invade</hi> the Scepter of his <hi>Government,</hi> and become guilty of <hi>High-Treaſon</hi> againſt the <hi>Majeſty</hi> of Heaven. For we thereby confront <hi>his</hi> Will with <hi>ours,</hi> we take upon us to diſpoſe of <hi>his Creatures,</hi> to diſ<g ref="char:EOLhyphen"/>penſe <hi>his Bleſſings,</hi> to withſtand his <hi>Corrections;</hi> which is in ſhort to <hi>depoſe</hi> him from the Govern<g ref="char:EOLhyphen"/>ment, and to <hi>aſſume</hi> it to our ſelves.</p>
+            <p n="2">2. It is our great <hi>Priviledg</hi> that we <hi>need</hi> not do more, than quietly <hi>commend</hi> and <hi>commit</hi> our ſelves to the care of Divine <hi>Pro<g ref="char:EOLhyphen"/>vidence.</hi>
+            </p>
+            <p>It would indeed be very <hi>ill</hi> for us, if God ſhould leave us, like <hi>Orphans,</hi> to our own <hi>care</hi> and
+<pb n="112" facs="tcp:93606:57"/>
+               <hi>diſpoſal,</hi> and ſhould make our <hi>carking Sollicitudes,</hi> and <hi>toilſome Labours</hi> as <hi>neceſſary</hi> as we think them to be; How <hi>madly</hi> ſhould we <hi>order</hi> our ſelves? How <hi>mi<g ref="char:EOLhyphen"/>ſerable</hi> ſhould we ſoon make our ſelves? We underſtand not our own <hi>Wants</hi> or <hi>Ca<g ref="char:EOLhyphen"/>pacities,</hi> or the <hi>fitneſs</hi> and <hi>uſeful<g ref="char:EOLhyphen"/>neſs</hi> of the things about us; we ſhould be ready to <hi>chooſe</hi> any <hi>Evil</hi> that appears <hi>ſpeciouſly,</hi> or to <hi>reject</hi> any <hi>Good</hi> that is not atten<g ref="char:EOLhyphen"/>ded with <hi>fair</hi> and <hi>eaſy</hi> Circum<g ref="char:EOLhyphen"/>ſtances; ſo <hi>fooliſh</hi> and <hi>humour ſome</hi> are the wiſeſt Men, that if God left Events to their manage<g ref="char:EOLhyphen"/>ment, they would but <hi>diſturb</hi> and <hi>deſtroy themſelves,</hi> and the <hi>World</hi> about them.</p>
+            <p>Is it not therefore much bet<g ref="char:EOLhyphen"/>ter
+<pb n="113" facs="tcp:93606:57"/>that we may ſit ſtill, and not <hi>diſquiet</hi> or <hi>miſchief</hi> our ſelves with our <hi>unwiſe Cares,</hi> and <hi>raſh Projects;</hi> and that the infinitely <hi>Good,</hi> the only <hi>Wiſe,</hi> and Al<g ref="char:EOLhyphen"/>mighty God, who is the <hi>Maſter</hi> of the great <hi>Family</hi> in which we live, our <hi>Father,</hi> and <hi>Guardian,</hi> will <hi>vouchſafe</hi> to take <hi>care</hi> of us, and <hi>order</hi> all things about us for our <hi>good?</hi> Why will we <hi>toil</hi> and <hi>cark</hi> for our ſelves, when we <hi>need</hi> not? What can we deſire better than to be under the <hi>conduct</hi> of infinite <hi>Wiſdom,</hi> and at the <hi>diſpoſal</hi> of infinite <hi>Good<g ref="char:EOLhyphen"/>neſs?</hi>
+            </p>
+            <p n="3">3. It is in <hi>vain</hi> for us to at<g ref="char:EOLhyphen"/>tempt to do more, for after all our <hi>projecting, wiſhing</hi> and <hi>ſtriv<g ref="char:EOLhyphen"/>ing,</hi> thô with never ſo great <hi>Ear<g ref="char:EOLhyphen"/>neſtneſs,</hi>
+               <pb n="114" facs="tcp:93606:58"/>it is not in our Power to <hi>attain</hi> the <hi>good</hi> Things which God <hi>denies,</hi> or to <hi>refuſe</hi> the <hi>evil</hi> Things which God <hi>appoints.</hi>
+            </p>
+            <p>God hath <hi>fitted</hi> our Nature with <hi>faculties</hi> for doing ſo much as he intended to make our <hi>Du<g ref="char:EOLhyphen"/>ty,</hi> and therein we ſhould aſſi<g ref="char:EOLhyphen"/>duouſly <hi>imploy</hi> our ſelves; but as he never deſign'd to trouble us with <hi>governing the World,</hi> ſo he hath <hi>capacitated</hi> us with no <hi>Powers</hi> for ſo vaſt an <hi>Undertak<g ref="char:EOLhyphen"/>ing,</hi> but hath <hi>reſerv'd</hi> it to him<g ref="char:EOLhyphen"/>ſelf, who hath moſt <hi>Right,</hi> and is beſt <hi>able</hi> to perform it.</p>
+            <p>We may as well make an attempt at God's work of <hi>Crea<g ref="char:EOLhyphen"/>tion,</hi> as of <hi>Providence,</hi> for both greatly tranſcend our <hi>Skill</hi> and <hi>Power;</hi> or try if we can <hi>alter</hi>
+               <pb n="115" facs="tcp:93606:58"/>the <hi>frame</hi> of our Natures, as well as change the <hi>circumſtances</hi> of our <hi>Condition;</hi> but, as our Saviour ſays, <hi>we cannot make one Hair White or Black,</hi>
+               <note place="margin">Mat. 5.36.</note> ſo neither can we of our ſelves make our Condition <hi>better</hi> or <hi>worſe</hi> than God hath appointed.</p>
+            <p>If our <hi>Experience</hi> hath not long ſince convinc'd us of this, let us make an <hi>Experiment</hi> of our <hi>Power,</hi> in <hi>changing</hi> the <hi>Wea<g ref="char:EOLhyphen"/>ther,</hi> in <hi>preventing Sickneſs</hi> and <hi>Death;</hi> and if we cannot com<g ref="char:EOLhyphen"/>mand theſe <hi>ordinary Events,</hi> why ſhould we think of <hi>ordering o<g ref="char:EOLhyphen"/>thers!</hi> or rather why ſhould we not leave off the <hi>folly</hi> of <hi>at<g ref="char:EOLhyphen"/>tempting</hi> what is <hi>impoſſible</hi> for us to <hi>perform.</hi>
+            </p>
+            <p n="4">4. There is great <hi>Peace,
+<pb n="116" facs="tcp:93606:59"/>Pleaſure,</hi> and <hi>Satisfaction</hi> in the performance of this Duty.</p>
+            <p>He that hath heartily <hi>reſign'd</hi> up himſelf to God's <hi>conduct</hi> and <hi>diſpoſal,</hi> is become a <hi>happy Man,</hi> and leads the moſt <hi>eaſy, ſafe</hi> and <hi>delightful</hi> courſe of Life; for he hath <hi>unloaded</hi> his Mind of all his <hi>burdenſome Cares,</hi> and <hi>diſ<g ref="char:EOLhyphen"/>maying Fears;</hi> he takes <hi>no thought what he ſhall eat, or drink, or where<g ref="char:EOLhyphen"/>withal he ſhall be cloathed,</hi> much leſs doth he <hi>diſtract</hi> himſelf with <hi>future Wants</hi> or <hi>diſtant Dangers,</hi> becauſe his <hi>heavenly Father</hi> takes <hi>Care</hi> of him: He can <hi>wake,</hi> or <hi>ſleep ſecurely,</hi> and <hi>at<g ref="char:EOLhyphen"/>tend</hi> on his <hi>Duties</hi> without <hi>diſ<g ref="char:EOLhyphen"/>traction;</hi> he can <hi>injoy</hi> his <hi>Bleſ<g ref="char:EOLhyphen"/>ſings</hi> with the greateſt <hi>Cheerful<g ref="char:EOLhyphen"/>neſs,</hi> and <hi>bear</hi> his <hi>Afflictons</hi> with
+<pb n="117" facs="tcp:93606:59"/>the greateſt <hi>Eaſe,</hi> and be at all times well <hi>pleas'd,</hi> and fully <hi>ſatisfied,</hi> becauſe the <hi>wiſeſt</hi> and <hi>beſt</hi> of <hi>Beings</hi> hath undertaken to <hi>manage</hi> and <hi>order</hi> all Things for him.</p>
+            <p>And he that can contentedly <hi>acquieſce</hi> in the <hi>Diſpenſations</hi> of <hi>Providence,</hi> is free from the <hi>un<g ref="char:EOLhyphen"/>eaſy</hi> paſſions of <hi>Grief</hi> and <hi>Shame;</hi> he is never <hi>diſappointed,</hi> never <hi>diſcontented;</hi> he never envies the <hi>good</hi> Things which are <hi>diſ<g ref="char:EOLhyphen"/>pens'd</hi> to another, or <hi>frets</hi> at the <hi>evil</hi> Things which are <hi>allotted</hi> to him: He never <hi>murmurs</hi> at God, or <hi>quarrels</hi> with Men, or <hi>diſquiets</hi> himſelf however the World moves about him; for all things come to paſs as he <hi>would</hi> have them, becauſe he
+<pb n="118" facs="tcp:93606:60"/>
+               <hi>would</hi> have them come to paſs as God <hi>appoints</hi> them.</p>
+            <p>How very <hi>ſweet</hi> and <hi>pleaſant</hi> muſt ſuch a ſtate of Life needs be, wherein is fulfill'd that ſaying of the Prophet, <hi>Thou wilt keep him in perfect Peace whoſe Mind is ſtay'd on thee,</hi>
+               <note place="margin">Iſa. 26.3.</note> 
+               <hi>becauſe he truſteth in thee?</hi>
+            </p>
+            <p n="5">5. Great <hi>Benefit</hi> and <hi>Advan<g ref="char:EOLhyphen"/>tage</hi> will accrue to us by a <hi>ſincere</hi> and <hi>conſtant diſcharge</hi> of this <hi>Du<g ref="char:EOLhyphen"/>ty.</hi>
+            </p>
+            <p>By <hi>reſigning</hi> up our ſelves to God's <hi>conduct,</hi> we effectually ingage the <hi>care</hi> and <hi>favour</hi> of his <hi>Providence</hi> over us; for it will not conſiſt with his <hi>Honour</hi> or his <hi>Promiſe</hi> to ſuffer any who re<g ref="char:EOLhyphen"/>poſe their <hi>truſt</hi> in him to be <hi>aſhamed.</hi>
+            </p>
+            <pb n="119" facs="tcp:93606:60"/>
+            <p>And how great an <hi>advantage</hi> muſt it needs be, to have the <hi>Wiſdom</hi> of God to <hi>contrive</hi> for us, his <hi>Goodneſs</hi> to <hi>ſupply</hi> us, and his Power to <hi>protect</hi> us? Is it not a much greater <hi>priviledg</hi> than if we were receiv'd under the <hi>Patronage</hi> of the <hi>greateſt, wiſeſt</hi> or <hi>beſt</hi> Man in the World? for what can we <hi>want,</hi> if <hi>fed</hi> from the <hi>Hand</hi> of divine <hi>Bounty?</hi> what <hi>Evil</hi> can hurt us, if ſhelter'd under the Almighty wings?</p>
+            <p>By <hi>ſubmitting</hi> to God's <hi>Conduct</hi> we ſhall eſcape many <hi>Sins</hi> and <hi>Dangers,</hi> which they uſually fall into who would be at their own diſpoſal; Yea hereby our <hi>evil</hi> Things will be turn'd into <hi>Good,</hi> for we ſhall receive a <hi>Bleſſing</hi> with them, which
+<pb n="120" facs="tcp:93606:61"/>will <hi>ſanctify</hi> and <hi>ſweeten</hi> them to us.</p>
+            <p>And if we continue always to <hi>implore</hi> and <hi>rely</hi> on God's <hi>Con<g ref="char:EOLhyphen"/>duct;</hi> he will never <hi>leave</hi> or <hi>forſake</hi> us, till he hath brought us paſt all our Fears and <hi>Dan<g ref="char:EOLhyphen"/>gers,</hi> up to that <hi>Heaven</hi> where we ſhall receive <hi>good</hi> Things <hi>only,</hi> and ſhall be able to <hi>thank,</hi> and <hi>praiſe</hi> God for thoſe <hi>evil</hi> Things wherewith he diſci<g ref="char:EOLhyphen"/>plin'd us <hi>for our profit, that we might be partakers of his Holineſs</hi> here, <note place="margin">Heb. 12.10.</note> and of his <hi>Glory</hi> here<g ref="char:EOLhyphen"/>after.</p>
+            <p>This Argument may be far<g ref="char:EOLhyphen"/>ther improv'd by conſidering more <hi>particularly</hi> ſome of the chief <hi>Advantages,</hi> which will accrue to us by <hi>ſubmitting</hi> our
+<pb n="121" facs="tcp:93606:61"/>ſelves to the <hi>conduct</hi> and <hi>diſpoſal</hi> of God's <hi>Providence.</hi>
+            </p>
+            <p n="1">1. In following this <hi>Divine Conduct,</hi> we ſhall always walk in ways that are <hi>right</hi> and <hi>law<g ref="char:EOLhyphen"/>ful,</hi> and thereby eſcape thoſe ſinful <hi>Courſes,</hi> which <hi>defile</hi> our Souls; <hi>wound</hi> our <hi>Conſciences,</hi> and <hi>inthral</hi> us in manifold <hi>Miſe<g ref="char:EOLhyphen"/>ries;</hi> when we walk in the <hi>Light</hi> of our <hi>own Eyes,</hi> and after the <hi>Luſts</hi> of our <hi>own Hearts,</hi> we run our ſelves into many dangerous Errors. So the Apoſtle ob<g ref="char:EOLhyphen"/>ſerves <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>They that will be rich</hi> [and follow their own will therein] <hi>fall into Temptation, and a ſnare, and in<g ref="char:EOLhyphen"/>to many fooliſh and hurtful Luſts, which drown Men in Deſtruction and Perdition. For the Love of Money
+<pb n="122" facs="tcp:93606:62"/>is the root of all Evil; which while ſome coveted after, they have erred from the Faith, and pierced them<g ref="char:EOLhyphen"/>ſelves through with many ſorrows.</hi>
+            </p>
+            <p>But if we follow this <hi>Heaven<g ref="char:EOLhyphen"/>ly Guide,</hi> he will never <hi>miſlead</hi> us into any <hi>crooked ways,</hi> not <hi>betray</hi> us into <hi>any Temptations,</hi> which may prove <hi>too ſtrong</hi> for us. This <hi>David</hi> mentions as a conſiderable Advantage of having God for his <hi>Shepherd</hi> o<g ref="char:EOLhyphen"/>ver him. <hi>He reſtoreth my Soul, he leadeth me in the paths of Righ<g ref="char:EOLhyphen"/>teouſneſs for his Nameſake.</hi>
+               <note place="margin">Pſal. 23.3.</note> And elſewhere the <hi>Pſalmiſt</hi> obſerves it to be the <hi>Priviledge</hi> of him that <hi>relies</hi> on God's <hi>Conduct,</hi> that, <hi>The Law of God is in his Heart,</hi>
+               <note place="margin">Pſal. 73.31.</note> 
+               <hi>none of his ſteps ſhall ſlide.</hi> We find alſo the <hi>Royal</hi> Preacher
+<pb n="123" facs="tcp:93606:62"/>largely inſiſting on this Argu<g ref="char:EOLhyphen"/>ment! <hi>The Lord giveth Wiſdom;</hi>
+               <note place="margin">Prov. 2.6, &amp;c.</note> 
+               <hi>and out of his Mouth cometh Know<g ref="char:EOLhyphen"/>ledg and Underſtanding. He layeth up ſound Wiſdom for the Righteous; he is a Buckler to them that walk uprightly. He keepeth the paths of Judgment, and preſerveth the way of his Saints. Then ſhalt thou under<g ref="char:EOLhyphen"/>ſtand Righteouſneſs and Judgment, and Equity; yea, every good path. Diſcretion ſhall preſerve thee, Un<g ref="char:EOLhyphen"/>derſtanding ſhall keep thee: To de<g ref="char:EOLhyphen"/>liver thee from the way of the evil Man, from the Man that ſpeaketh froward Things, who leave the paths of Uprightneſs, to walk in the ways of Darkneſs.</hi> And in the next Chapter he exprefly aſſerts this to be the Priviledge of thoſe who acknowledg God for their
+<pb n="124" facs="tcp:93606:63"/>
+               <hi>Guide,</hi> and follow his Conduct. <hi>Truſt in the Lord with all thine Heart,</hi>
+               <note place="margin">Prov. 3.5, 6.</note> 
+               <hi>and lean not unto thine own Underſtanding. In all thy ways acknowledg him, and he ſhall di<g ref="char:EOLhyphen"/>rect thy paths.</hi> He cannot but be in the <hi>right way</hi> who hath God to <hi>direct</hi> him; and no <hi>wiſe</hi> or <hi>good</hi> Man, but will highly value ſo great a Priviledg.</p>
+            <p n="2">2. If we follow the Conduct of God's <hi>Providence,</hi> our way will be <hi>ſmoth</hi> and <hi>plain,</hi> not <hi>incumber'd</hi> with ſuch <hi>perplexities,</hi> or <hi>obſtructed</hi> with ſuch <hi>impediments</hi> as they meet with who are led by the <hi>ignis fa<g ref="char:EOLhyphen"/>tuus</hi> of their own uncertain Under<g ref="char:EOLhyphen"/>ſtandings.</p>
+            <p>We ſometimes complain of <hi>Dif<g ref="char:EOLhyphen"/>ficulties</hi> in our <hi>Affairs</hi> which our skill cannot <hi>extricate,</hi> we <hi>cark</hi> in our thoughts, are <hi>dubious</hi> and <hi>fluctuating</hi> in our Reſolutions, and after many fruitleſs <hi>Attempts</hi> and
+<pb n="125" facs="tcp:93606:63"/>toilſome <hi>Indeavours,</hi> are forc'd to let go the <hi>fond Project,</hi> and ſit down in a hopeleſs deſpair: But if we were under the <hi>Conduct</hi> of Divine <hi>Wiſ<g ref="char:EOLhyphen"/>dom;</hi> if we would ſtay till God <hi>o<g ref="char:EOLhyphen"/>pen</hi> a way to us by the courſe of his <hi>Providence,</hi> and follow his <hi>conduct</hi> in uſing thoſe <hi>means</hi> and <hi>opportuni<g ref="char:EOLhyphen"/>ties</hi> he provides; we ſhould find favourable <hi>Circumſtances</hi> about us conſpiring to <hi>facilitate</hi> our deſigns, the courſe of God's <hi>Providence</hi> would ſuggeſt to us <hi>prudent Thoughts,</hi> and the <hi>Events</hi> that hap<g ref="char:EOLhyphen"/>pen to us would <hi>concur</hi> with our <hi>Indeavours;</hi> whereby our <hi>Affairs</hi> would proceed <hi>eaſily</hi> and <hi>ſteadily;</hi> and thô God may ſometimes per<g ref="char:EOLhyphen"/>mit ſome <hi>rubs</hi> or <hi>delays</hi> for our ſpi<g ref="char:EOLhyphen"/>ritual <hi>exerciſe</hi> and <hi>improvement,</hi> yet he will not ſuffer us to be <hi>puz<g ref="char:EOLhyphen"/>led</hi> with any <hi>inextricable Difficul<g ref="char:EOLhyphen"/>ties,</hi> or to be <hi>defeated</hi> in any <hi>extra<g ref="char:EOLhyphen"/>ordinary Diſappointments;</hi>
+            </p>
+            <p>Thus ſome interpret that <hi>Apho<g ref="char:EOLhyphen"/>riſme</hi> of the <hi>Wiſe</hi>-Man, <hi>Commit thy
+<pb n="126" facs="tcp:93606:64"/>ways unto the Lord,</hi>
+               <note place="margin">Prov. 16.3.</note> 
+               <hi>and thy thoughts ſhall be eſtabliſhed;</hi> that by commit<g ref="char:EOLhyphen"/>ting our Affairs to the <hi>Conduct</hi> of God's <hi>Providence;</hi> our <hi>thoughts</hi> ſhall be <hi>eſtabliſhed</hi> in <hi>prudent</hi> and <hi>ſteady Reſolutions;</hi> and be <hi>ſupported</hi> in an honeſt deſign againſt all <hi>Obſtacles</hi> and <hi>Difficulties.</hi>
+            </p>
+            <p n="3">3. If we are under God's <hi>Conduct</hi> we ſhall be under his <hi>Safeguard</hi> too, and our way will be always <hi>ſafe</hi> and <hi>ſecure.</hi> He that hath no better <hi>Guide</hi> then <hi>himſelf,</hi> is like the <hi>Blind leading the Blind,</hi> which, according to the Jewiſh Proverb, <hi>falls into a ditch;</hi> and indeed moſt of the <hi>Miſchiefs</hi> and <hi>Troubles</hi> we meet with proceed from our own <hi>ill con<g ref="char:EOLhyphen"/>duct</hi> of our ſelves. But if God be our <hi>Guide,</hi> his <hi>Hand</hi> that <hi>leads</hi> us, will alſo <hi>ſupport</hi> us, his <hi>Priſence</hi> that <hi>conducts</hi> us will alſo <hi>protect</hi> us; <hi>He will give his Angels charge over us to keep us in all our ways,</hi> into which his Providence leads us. <note place="margin">Pſal. 37.23, 24.</note> 
+               <hi>The ſteps of a good Man are order'd by the Lord,
+<pb n="127" facs="tcp:93606:64"/>and none of his ſteps ſhall ſlide; Tho he fall he ſhall not be utterly caſt down, for the Lord upholdeth him with his Hand.</hi>
+            </p>
+            <p>Thus we read that <hi>Iſrael</hi> travel'd with <hi>ſafety</hi> in an uncouth <hi>Wilder<g ref="char:EOLhyphen"/>neſs</hi> amidſt all their <hi>Enemies,</hi> while they obſequiouſly follow'd the <hi>ſign</hi> of God's <hi>Preſence</hi> conducting them; but when they would go on their own Heads againſt <hi>Amalek,</hi> they were eaſily <hi>vanquiſhed.</hi> We like<g ref="char:EOLhyphen"/>wiſe find that <hi>Abraham</hi> who re<g ref="char:EOLhyphen"/>ſign'd up himſelf to God's Conduct, met with no conſiderable <hi>Troubles</hi> in the whole ocurſe of his Life; But <hi>Jacob</hi> who follow'd rather the <hi>Conduct</hi> of his ſubtile <hi>Mother,</hi> then the <hi>Guidance</hi> of God, in procuring his <hi>Bleſſing,</hi> procur'd thereby many <hi>Croſſes</hi> and <hi>Troubles,</hi> which follow<g ref="char:EOLhyphen"/>ed him all his days.</p>
+            <p n="4">4. If God be our <hi>Guide,</hi> we ſhall not fail of Succeſs; for he that can do <hi>whatever pleaſeth him in Heaven and Earth, will proſper</hi> the work of our Hands; He will certainly lead
+<pb n="128" facs="tcp:93606:65"/>us to that <hi>Good</hi> which is moſt <hi>con<g ref="char:EOLhyphen"/>venient</hi> for us, if not to that <hi>parti<g ref="char:EOLhyphen"/>cular</hi> Good which we, by miſtake, <hi>deſign'd. Delight thy ſelf in the Lord,</hi>
+               <note place="margin">Pſal. 37.4, 5.</note> 
+               <hi>and he ſhall give thee the deſire of thine Heart. Commit thy way un<g ref="char:EOLhyphen"/>to the Lord, truſt alſo in him, and he ſhall bring it to paſs.</hi> As God con<g ref="char:EOLhyphen"/>ducted the Children of <hi>Iſrael ſafe</hi> through the <hi>Wilderneſs,</hi> and at laſt brought them to the <hi>Land</hi> of <hi>Pro<g ref="char:EOLhyphen"/>miſe:</hi> So will he <hi>conduct</hi> thoſe who <hi>Truſt</hi> in him, amidſt all the <hi>changes</hi> and <hi>chances</hi> of this <hi>mortal</hi> Life, and at laſt put them in <hi>poſſeſſion</hi> of that <hi>Heavenly Canaan,</hi> toward which every good Man is <hi>tending</hi> in all the <hi>paſſages</hi> of his Life. He will <hi>guide</hi> them by his <hi>Counſel</hi> while they are on the <hi>way,</hi> and at laſt <hi>re<g ref="char:EOLhyphen"/>ceive</hi> them to himſelf in <hi>Glory.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>P. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> l. 20. f. <hi>then</hi> r. <hi>when.</hi> l. 21. <hi>dele the.</hi> P. 75. l. 7. r. <hi>glorious.</hi> P. 78. l. 3. <hi>for Crown.</hi> r. <hi>frowns.</hi> P. 90. l. 11. f. <hi>hiſt.</hi> r. <hi>leſt.</hi> P. 95. l. 14. f. <hi>beſt .r. leſt.</hi>
+            </p>
+            <pb facs="tcp:93606:65"/>
+         </div>
+      </back>
+   </text>
+</TEI>
